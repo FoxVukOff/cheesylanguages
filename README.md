@@ -1,9 +1,8 @@
 # cheesy languages
 
-Translations for the cheesy script. One file per language, e.g. `french.lua`, `japanese.lua`.
+Translations for the cheesy script
 
-Pull requests are welcome. All of these were translated with AI, so if something reads
-wrong in your language, feel free to fix it.
+Pull requests are very welcome, all of these were translated with ai, so if something reads
+wrong in your language, feel free to fix it :)
 
-Just edit the text between the quotes in your language's file. Don't change the keys on
-the left.
+Just edit the text between the quotes in your language's file, dont change anything on the left
