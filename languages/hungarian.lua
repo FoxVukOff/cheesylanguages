@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (HUNGARIAN)",
 	["Main"] =   "Fooldal",
 	["Visuals"] =   "Vizuális",
 	["Exploits"] =   "Exploitok",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Betöltés visszaállítása",
 	["Clears the saved language so the loading picker shows again"] =   "Törli a mentett nyelvet, így a nyelvválasztó újra megjelenik",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Ha vissza akarod állítani a nyelvet, használd a „Betöltés visszaállítása” gombot a beállítások fülön)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Ez egy szobákból/külsőből álló játékba tesz, de az adminisztrátor panel módosítójával, ami azt jelenti, hogy ingyenes, de nem szerezhetsz eredményeket/haladást.</font>",
 }

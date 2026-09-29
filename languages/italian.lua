@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (ITALIAN)",
 	["Main"] =   "Principale",
 	["Visuals"] =   "Visivi",
 	["Exploits"] =   "Exploit",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Reimposta il caricamento",
 	["Clears the saved language so the loading picker shows again"] =   "Cancella la lingua salvata perché il selettore della lingua ricompaia",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Se vuoi reimpostare la lingua, usa Reimposta il caricamento nella scheda impostazioni)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Questo ti mette in un gioco di stanze/esterni, ma con il modificatore del pannello admin, il che significa che è gratuito, ma non puoi ottenere alcun risultato/progresso.</font>",
 }

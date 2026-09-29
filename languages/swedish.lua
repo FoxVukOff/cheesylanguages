@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (SWEDISH)",
 	["Main"] =   "Huvudsida",
 	["Visuals"] =   "Grafik",
 	["Exploits"] =   "Exploits",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Återställ inläsningen",
 	["Clears the saved language so the loading picker shows again"] =   "Rensar det sparade språket så att språkvalet visas igen",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Om du vill återställa språket, använd Återställ inläsningen i fliken Inställningar)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Det här för dig till ett spel med rum/utomhus, men med administratörspanelens modifierare, vilket betyder att det är gratis, men du kan inte få några priser eller framsteg.</font>",
 }

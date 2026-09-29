@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (INDONESIAN)",
 	["Main"] =   "Utama",
 	["Visuals"] =   "Visual",
 	["Exploits"] =   "Exploit",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Atur ulang pemuatan",
 	["Clears the saved language so the loading picker shows again"] =   "Menghapus bahasa tersimpan agar pemilih bahasa muncul lagi",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Jika ingin mengatur ulang bahasa, gunakan Atur ulang pemuatan di tab pengaturan)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Ini menempatkanmu dalam permainan ruang/luar, tetapi dengan Pengubah Panel Admin, yang berarti gratis, tetapi kamu tidak bisa mendapatkan prestasi atau progres apa pun.</font>",
 }

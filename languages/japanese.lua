@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (JAPANESE)",
 	["Main"] =   "メイン",
 	["Visuals"] =   "表示",
 	["Exploits"] =   "エクスプロイト",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "読み込みをリセット",
 	["Clears the saved language so the loading picker shows again"] =   "保存された言語を消去し、言語選択をもう一度表示します",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(言語をリセットしたい場合は、設定タブの「読み込みをリセット」を使用してください)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">これにより、部屋/屋外のゲームに移動しますが、管理者パネルの修飾剤が適用されます。無料ですが、実績や進捗は得られません。</font>",
 }

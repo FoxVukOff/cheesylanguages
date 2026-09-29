@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (CHINESE)",
 	["Main"] =   "主菜单",
 	["Visuals"] =   "视觉效果",
 	["Exploits"] =   "辅助功能",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "重置加载",
 	["Clears the saved language so the loading picker shows again"] =   "清除已保存的语言，使语言选择重新显示",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(如果你想重置语言，请在设置标签页使用“重置加载”)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">这会把你带入一个房间/户外游戏，但带有管理员面板修改器，这意味着它是免费的，但你无法获得任何成就/进度。</font>",
 }

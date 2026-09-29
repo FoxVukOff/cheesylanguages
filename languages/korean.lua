@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (KOREAN)",
 	["Main"] =   "메인",
 	["Visuals"] =   "화면",
 	["Exploits"] =   "익스플로잇",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "불 불러오기 초기화",
 	["Clears the saved language so the loading picker shows again"] =   "저장된 언어를 지워 언어 선택창이 다시 나타나게 합니다",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(언어를 초기화하려면 설정 탭에서 “불 불러오기 초기화”를 사용하세요)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">이 기능은 방/야외 게임으로 이동하게 해 주지만 관리자 패널 수정자가 적용됩니다, 즉 무료이지만 어떤 업적이나 진행 상황도 얻을 수 없습니다.</font>",
 }

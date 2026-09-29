@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (UKRAINIAN)",
 	["Main"] =   "Головна",
 	["Visuals"] =   "Візуальні",
 	["Exploits"] =   "Експлойти",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Скинути завантаження",
 	["Clears the saved language so the loading picker shows again"] =   "Очищає збережену мову, щоб вікно вибору мови з’явилося знову",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Якщо хочете скинути мову, скористайтеся «Скинути завантаження» у вкладці налаштувань)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Це переносить тебе у гру з кімнатами/надворі, але з модифікатором адмін-панелі, тобто це безкоштовно, але ти не зможеш отримати жодних досягнень/прогресу.</font>",
 }

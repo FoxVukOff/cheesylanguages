@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (TURKISH)",
 	["Main"] =   "Ana Sayfa",
 	["Visuals"] =   "Gorseller",
 	["Exploits"] =   "Exploitler",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Yüklemeyi sıfırla",
 	["Clears the saved language so the loading picker shows again"] =   "Kaydedilen dili temizler, böylece dil seçici tekrar görünür",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Dili sıfırlamak istiyorsan, ayarlar sekmesindeki Yüklemeyi sıfırla seçeneğini kullan)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Bunu seni oda/dış mekan oyununa sokar, ancak yönetici paneli değiştiricisiyle, yani bedava olduğu anlamına gelir, ama hiçbir başarı veya ilerleme elde edemezsin.</font>",
 }

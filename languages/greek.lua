@@ -1,6 +1,5 @@
 
 return {
-	["cheesy"] =   "cheesy (GREEK)",
 	["Main"] =   "Κύριο",
 	["Visuals"] =   "Οπτικά",
 	["Exploits"] =   "Exploits",
@@ -439,4 +438,5 @@ return {
 	["Reset Loading"] =   "Επαναφόρτωση φόρτωσης",
 	["Clears the saved language so the loading picker shows again"] =   "Καθαρίζει τη γλώσσα που αποθηκεύτηκε ώστε να εμφανιστεί ξανά ο επιλογέας γλώσσας",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Αν θέλετε να επαναφέρετε τη γλώσσα, χρησιμοποιήστε Επαναφόρτωση φόρτωσης στην καρτέλα ρυθμίσεων)",
+	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Αυτό σε βάζει σε ένα παιχνίδι με δωμάτια/εξωτερικούς χώρους, αλλά με τον τροποποιητή του πίνακα διαχειριστή, που σημαίνει ότι είναι δωρεάν, αλλά δεν μπορείς να αποκτήσεις επιτεύγματα/πρόοδο.</font>",
 }
