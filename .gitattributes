@@ -1,6 +1,0 @@
-# Force LF and UTF-8 for everything in this repo.
-# The files are downloaded raw by a Roblox script, which is why line endings and
-# a stray BOM matter here.
-*.lua text eol=lf
-*.md  text eol=lf
-*.yml text eol=lf
