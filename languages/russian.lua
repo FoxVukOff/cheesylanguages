@@ -439,4 +439,10 @@ return {
 	["Clears the saved language so the loading picker shows again"] =   "Очищает сохранённый язык, чтобы окно выбора языка появилось снова",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Если хотите сбросить язык, используйте «Сбросить загрузку» во вкладке настроек)",
 	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Это переносит тебя в игру с комнатами/на улице, но с модификатором админ-панели, то есть это бесплатно, но ты не можешь получить никаких достижений/прогресса.</font>",
+	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Присоединяйся к нашему дискорду за помощью, обновлениями и просто чтобы пообщаться!<br/>discord.gg/CuZJQaCquK</font>",
+	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
+	["Your executor does not support the required filesystem functions for addons."] =   "Твой исполнитель не поддерживает необходимые для аддонов функции файловой системы.",
+	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Папка аддонов пуста. Создай файлы .lua в рабочей области исполнителя по пути '",
+	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Папка аддонов пуста. Вставь файл .lua в '",
+	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Делитесь своими аддонами в дискорде! Непроверенные аддоны или аддоны без открытого исходного кода могут быть вредоносными или ненадёжными. Осторожно выбирайте, что используете.",
 }

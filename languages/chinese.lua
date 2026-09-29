@@ -439,4 +439,10 @@ return {
 	["Clears the saved language so the loading picker shows again"] =   "清除已保存的语言，使语言选择重新显示",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(如果你想重置语言，请在设置标签页使用“重置加载”)",
 	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">这会把你带入一个房间/户外游戏，但带有管理员面板修改器，这意味着它是免费的，但你无法获得任何成就/进度。</font>",
+	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">加入我们的 Discord 获取帮助、更新并聊天！<br/>discord.gg/CuZJQaCquK</font>",
+	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
+	["Your executor does not support the required filesystem functions for addons."] =   "你的执行器不支持插件所需的文件系统功能。",
+	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "你的插件文件夹目前是空的。请在执行器工作区的 '' 中创建 .lua 文件。",
+	["Your addons folder is currently empty. Insert a .lua file into '"] =   "你的插件文件夹目前是空的。请将 .lua 文件插入 '",
+	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "在 Discord 上分享你的插件！未经检查或非开源的插件可能具有恶意或不可靠。请谨慎选择你要使用的内容。",
 }

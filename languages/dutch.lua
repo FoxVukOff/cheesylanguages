@@ -439,4 +439,10 @@ return {
 	["Clears the saved language so the loading picker shows again"] =   "Wist de opgeslagen taal zodat de taalkiezer weer verschijnt",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Als je de taal opnieuw wilt instellen, gebruik Laden opnieuw instellen in het instellingen-tabblad)",
 	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Dit zet je in een spel met kamers/buiten, maar met de adminpaneel-modifier, wat betekent dat het gratis is, maar je geen prestaties/voortgang kunt behalen.</font>",
+	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Kom bij onze discord voor hulp, updates en om te chatten!<br/>discord.gg/CuZJQaCquK</font>",
+	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
+	["Your executor does not support the required filesystem functions for addons."] =   "Je executor ondersteunt de benodigde bestandssysteemfuncties voor addons niet.",
+	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Je addons-map is leeg. Maak .lua-bestanden aan in de werkruimte van je executor in '",
+	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Je addons-map is leeg. Plaats een .lua-bestand in '",
+	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Deel je addons op de discord! Addons die niet gecontroleerd of niet open source zijn kunnen schadelijk of onbetrouwbaar zijn. Wees voorzichtig met wat je gebruikt.",
 }

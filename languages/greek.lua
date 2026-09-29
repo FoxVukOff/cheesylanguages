@@ -439,4 +439,10 @@ return {
 	["Clears the saved language so the loading picker shows again"] =   "Καθαρίζει τη γλώσσα που αποθηκεύτηκε ώστε να εμφανιστεί ξανά ο επιλογέας γλώσσας",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Αν θέλετε να επαναφέρετε τη γλώσσα, χρησιμοποιήστε Επαναφόρτωση φόρτωσης στην καρτέλα ρυθμίσεων)",
 	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Αυτό σε βάζει σε ένα παιχνίδι με δωμάτια/εξωτερικούς χώρους, αλλά με τον τροποποιητή του πίνακα διαχειριστή, που σημαίνει ότι είναι δωρεάν, αλλά δεν μπορείς να αποκτήσεις επιτεύγματα/πρόοδο.</font>",
+	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Εγγραφείτε στο δικό μας discord για βοήθεια, ενημερώσεις και συνομιλία!<br/>discord.gg/CuZJQaCquK</font>",
+	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
+	["Your executor does not support the required filesystem functions for addons."] =   "Ο εκτελεστής σας δεν υποστηρίζει τις λειτουργίες συστήματος αρχείων που απαιτούνται για πρόσθετα.",
+	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Ο φάκελος των πρόσθετών σου είναι κενός. Δημιούργησε αρχεία .lua στον χώρο εργασίας του εκτελεστή σου στο '",
+	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Ο φάκελος των πρόσθετών σου είναι κενός. Εισήγαγε ένα αρχείο .lua στο '",
+	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Μοίρασε τα πρόσθετά σου στο discord! Πρόσθετα που δεν έχουν ελεγχθεί ή δεν είναι ανοιχτού κώδικα μπορεί να είναι κακόβουλα ή αναξιόπιστα. Πρόσεχε τι αποφασίζεις να χρησιμοποιήσεις.",
 }

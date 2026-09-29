@@ -439,4 +439,10 @@ return {
 	["Clears the saved language so the loading picker shows again"] =   "Cancella la lingua salvata perché il selettore della lingua ricompaia",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Se vuoi reimpostare la lingua, usa Reimposta il caricamento nella scheda impostazioni)",
 	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Questo ti mette in un gioco di stanze/esterni, ma con il modificatore del pannello admin, il che significa che è gratuito, ma non puoi ottenere alcun risultato/progresso.</font>",
+	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Unisciti al nostro discord per assistenza, aggiornamenti e per chattare!<br/>discord.gg/CuZJQaCquK</font>",
+	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
+	["Your executor does not support the required filesystem functions for addons."] =   "Il tuo executor non supporta le funzioni di filesystem necessarie per gli addon.",
+	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "La tua cartella degli addon è vuota. Crea file .lua nell'area di lavoro del tuo executor in '",
+	["Your addons folder is currently empty. Insert a .lua file into '"] =   "La tua cartella degli addon è vuota. Inserisci un file .lua in '",
+	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Condividi i tuoi addon su discord! Gli addon non controllati o non open source potrebbero essere dannosi o inaffidabili. Fai attenzione a quello che decidi di usare.",
 }

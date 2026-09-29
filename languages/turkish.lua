@@ -439,4 +439,10 @@ return {
 	["Clears the saved language so the loading picker shows again"] =   "Kaydedilen dili temizler, böylece dil seçici tekrar görünür",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Dili sıfırlamak istiyorsan, ayarlar sekmesindeki Yüklemeyi sıfırla seçeneğini kullan)",
 	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Bunu seni oda/dış mekan oyununa sokar, ancak yönetici paneli değiştiricisiyle, yani bedava olduğu anlamına gelir, ama hiçbir başarı veya ilerleme elde edemezsin.</font>",
+	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Yardım, güncellemeler almak ve sohbet etmek için discordumuza katıl!<br/>discord.gg/CuZJQaCquK</font>",
+	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
+	["Your executor does not support the required filesystem functions for addons."] =   "Yürütücün eklentiler için gereken dosya sistemi işlevlerini desteklemiyor.",
+	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Eklenti klasörün şu anda boş. Yürütücünün çalışma alanında şuraya .lua dosyaları oluştur: '",
+	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Eklenti klasörün şu anda boş. Şuraya bir .lua dosyası ekle: '",
+	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Eklentilerini discord'da paylaş! Kontrol edilmemiş veya açık kaynaklı olmayan eklentiler kötücül ya da güvenilmez olabilir. Kullanmayı seçtiğin şeylere dikkat et.",
 }
