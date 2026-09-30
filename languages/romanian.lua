@@ -437,7 +437,6 @@ return {
 	["Reset Loading"] =   "Resetează încărcarea",
 	["Clears the saved language so the loading picker shows again"] =   "Șterge limba salvată, astfel încât selectorul de limbă să apară din nou",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Dacă vrei să resetezi limba, folosește Resetează încărcarea în fila Setări)",
-	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Asta te pune într-un joc cu camere/exterior, dar cu modificatorul panoului de administrator, ceea ce înseamnă că este gratuit, dar nu poți obține nicio realizare/progres.</font>",
 	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Alătură-te discordului nostru pentru ajutor, actualizări și discuții!<br/>discord.gg/CuZJQaCquK</font>",
 	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
 	["Your executor does not support the required filesystem functions for addons."] =   "Executorul tău nu acceptă funcțiile de sistem de fișiere necesare pentru adiționări.",

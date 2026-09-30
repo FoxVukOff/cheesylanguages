@@ -437,7 +437,6 @@ return {
 	["Reset Loading"] =   "Đặt lại quá trình tải",
 	["Clears the saved language so the loading picker shows again"] =   "Xóa ngôn ngữ đã lưu để bộ chọn ngôn ngữ hiện lại",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Nếu bạn muốn đặt lại ngôn ngữ, hãy dùng Đặt lại quá trình tải trong tab cài đặt)",
-	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Điều này đưa bạn vào một trò chơi với các phòng/ngoài trời, nhưng với bộ sửa đổi bảng quản trị, nghĩa là miễn phí, nhưng bạn không thể đạt được thành tự hoặc tiến độ nào.</font>",
 	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Tham gia discord của chúng tôi để được giúp đỡ, cập nhật và trò chuyện!<br/>discord.gg/CuZJQaCquK</font>",
 	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
 	["Your executor does not support the required filesystem functions for addons."] =   "Trình thực thi của bạn không hỗ trợ các chức năng hệ thống tệp cần thiết cho add-on.",

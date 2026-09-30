@@ -442,7 +442,6 @@ return {
 	["Reset Loading"] =   "Réinitialiser le chargement",
 	["Clears the saved language so the loading picker shows again"] =   "Efface la langue enregistrée afin que le sélecteur de langue réapparaisse",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Si vous voulez réinitialiser la langue, utilisez Réinitialiser le chargement dans l’onglet des paramètres)",
-	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Cela vous place dans un jeu de salles/extérieur, mais avec le modificateur du panneau admin, ce qui signifie que c'est gratuit, mais que vous ne pouvez obtenir aucun succès/progression.</font>",
 	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Rejoignez notre discord pour de l'aide, des mises à jour et pour discuter !<br/>discord.gg/CuZJQaCquK</font>",
 	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
 	["Your executor does not support the required filesystem functions for addons."] =   "Votre exécuteur ne prend pas en charge les fonctions de système de fichiers requises pour les addons.",

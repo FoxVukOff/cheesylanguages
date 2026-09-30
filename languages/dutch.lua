@@ -437,7 +437,6 @@ return {
 	["Reset Loading"] =   "Laden opnieuw instellen",
 	["Clears the saved language so the loading picker shows again"] =   "Wist de opgeslagen taal zodat de taalkiezer weer verschijnt",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Als je de taal opnieuw wilt instellen, gebruik Laden opnieuw instellen in het instellingen-tabblad)",
-	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Dit zet je in een spel met kamers/buiten, maar met de adminpaneel-modifier, wat betekent dat het gratis is, maar je geen prestaties/voortgang kunt behalen.</font>",
 	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Kom bij onze discord voor hulp, updates en om te chatten!<br/>discord.gg/CuZJQaCquK</font>",
 	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
 	["Your executor does not support the required filesystem functions for addons."] =   "Je executor ondersteunt de benodigde bestandssysteemfuncties voor addons niet.",

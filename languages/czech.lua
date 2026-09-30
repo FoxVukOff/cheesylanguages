@@ -437,7 +437,6 @@ return {
 	["Reset Loading"] =   "Obnovit načtení",
 	["Clears the saved language so the loading picker shows again"] =   "Vymaže uložený jazyk, aby se výběr jazyka znovu zobrazil",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(Pokud chcete obnovit jazyk, použijte v kartě Nastavení možnost Obnovit načtení)",
-	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">Toto tě přesune do hry s místnostmi/venkem, ale s modifikátorem administrátorského panelu, což znamená, že je to zdarma, ale nezískáš žádné úspěchy/postup.</font>",
 	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">Připoj se k našemu discordu pro pomoc, aktualizace a chatování!<br/>discord.gg/CuZJQaCquK</font>",
 	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
 	["Your executor does not support the required filesystem functions for addons."] =   "Tvůj executor nepodporuje potřebné funkce systému souborů pro doplňky.",

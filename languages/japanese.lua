@@ -437,7 +437,6 @@ return {
 	["Reset Loading"] =   "読み込みをリセット",
 	["Clears the saved language so the loading picker shows again"] =   "保存された言語を消去し、言語選択をもう一度表示します",
 	["(If you would like to reset the language, use Reset Loading in the settings tab)"] =   "(言語をリセットしたい場合は、設定タブの「読み込みをリセット」を使用してください)",
-	["<font size=\"16\">This puts you into a game of rooms/outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"16\">これにより、部屋/屋外のゲームに移動しますが、管理者パネルの修飾剤が適用されます。無料ですが、実績や進捗は得られません。</font>",
 	["<font size=\"18\">Join our discord for help, updates, and for chatting!<br/>discord.gg/CuZJQaCquK</font>"] =   "<font size=\"18\">ヘルプや更新情報を得たりチャットしたりするには、私たちの Discord に参加しよう！<br/>discord.gg/CuZJQaCquK</font>",
 	["discord.gg/CuZJQaCquK"] =   "discord.gg/CuZJQaCquK",
 	["Your executor does not support the required filesystem functions for addons."] =   "あなたの実行環境は、アドオンに必要なファイルシステム機能をサポートしていません。",
