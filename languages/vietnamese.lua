@@ -244,7 +244,6 @@ return {
 	["Arrow Radius"] =   "Ban kinh mui ten",
 	["Show Entity Path"] =   "Hien duong di cua thuc the",
 	["Shows the pathfind nodes entities follow in each room"] =   "Hien cac nut tim duong ma thuc the di theo trong moi phong",
-	["Free Rooms"] =   "Phong tu do",
 	["Free Outdoors"] =   "Ngoai troi tu do",
 	["Auto Join Elevator"] =   "Tu vao thang may",
 	["Automatically joins the selected player's elevator."] =   "Tu dong vao thang may cua nguoi choi da chon.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Thư mục add-on của bạn hiện đang trống. Hãy tạo tệp .lua trong không gian làm việc của trình thực thi tại '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Thư mục add-on của bạn hiện đang trống. Hãy chèn một tệp .lua vào '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Hãy chia sẻ add-on của bạn trên discord! Những add-on chưa được kiểm tra hoặc không phải mã nguồn mở có thể độc hại hoặc không đáng tin cậy. Hãy cẩn thận với những gì bạn chọn sử dụng.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Điều này đưa bạn vào một trò chơi ngoài trời, nhưng với bộ sửa đổi bảng quản trị, nghĩa là miễn phí, nhưng bạn không thể đạt được bất kỳ thành tự hoặc tiến độ nào.</font>",
 }

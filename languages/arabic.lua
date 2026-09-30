@@ -244,7 +244,6 @@ return {
 	["Arrow Radius"] =   "نصف قطر السهم",
 	["Show Entity Path"] =   "إظهار مسار الكيان",
 	["Shows the pathfind nodes entities follow in each room"] =   "يعرض عقد المسار التي تسير عليها الكيانات في كل غرفة",
-	["Free Rooms"] =   "غرف حرة",
 	["Free Outdoors"] =   "خارج حر",
 	["Auto Join Elevator"] =   "الانضمام التلقائي للمصعد",
 	["Automatically joins the selected player's elevator."] =   "ينضم تلقائيًا إلى مصعد اللاعب المحدد.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "مجلد الإضافات فارغ حاليًا. أنشئ ملفات .lua في مساحة عمل المُنفّذ في '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "مجلد الإضافات فارغ حاليًا. أدرج ملف .lua في '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "شارك إضافاتك على الديسكورد! الإضافات التي لم يتم فحصها أو التي ليست مفتوحة المصدر قد تكون ضارة أو غير موثوقة. كن حذرًا فيما تختار استخدامه.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">يضعك هذا في لعبة في الهواء الطلق، مع مُعدِّل لوحة المشرف، مما يعني أنها مجانية، لكن لا يمكنك تحقيق أي إنجازات أو تقدم.</font>",
 }

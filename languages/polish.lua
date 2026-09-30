@@ -252,7 +252,6 @@ return {
 	["Enable Arrows"] =   "Wlacz strzalki",
 	["Shows arrows that point to off-screen objects"] =   "Pokazuje strzalki wskazujace obiekty poza ekranem",
 	["Arrow Radius"] =   "Promien strzalek",
-	["Free Rooms"] =   "Wolne pokoje",
 	["Free Outdoors"] =   "Wolne zewnatrz",
 	["Auto Join Elevator"] =   "Auto wejdz do windy",
 	["Automatically joins the selected player's elevator."] =   "Automatycznie wchodzi do windy wybranego gracza.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Twój folder dodatków jest pusty. Utwórz pliki .lua w przestrzeni roboczej swojego executora w '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Twój folder dodatków jest pusty. Wstaw plik .lua do '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Udostępniaj swoje dodatki na discordzie! Niesprawdzone dodatki lub takie bez otwartego kodu mogą być złośliwe lub zawodne. Bądź ostrożny z tym, czego zdecydujesz się używać.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Przenosi cię do gry na świeżym powietrzu, ale z modyfikatorem panelu admina, co oznacza, że jest darmowa, ale nie zdobędziesz żadnych osiągnięć ani postępu.</font>",
 }

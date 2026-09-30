@@ -126,7 +126,6 @@ return {
 	["Language"] =   "Idioma",
 	["Skip Current Room"] =   "Saltar sala actual",
 	["Free Outdoors"] =   "Exterior libre",
-	["Free Rooms"] =   "Salas libres",
 	["Auto Rooms"] =   "Salas automáticas",
 	["Knob Farm"] =   "Granja de perillas ",
 	["Minecart Teleport"] =   "Teletransporte del carrito ",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Tu carpeta de complementos está vacía. Crea archivos .lua en el espacio de trabajo de tu ejecutor en '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Tu carpeta de complementos está vacía. Inserta un archivo .lua en '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "¡Comparte tus complementos en el discord! Los complementos sin revisar o que no sean de código abierto podrían ser maliciosos o poco fiables. Ten cuidado con lo que decidas usar.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Esto te lleva a un juego al aire libre, pero con el modificador del panel de administrador, lo que significa que es gratis, pero no puedes obtener logros ni progreso.</font>",
 }

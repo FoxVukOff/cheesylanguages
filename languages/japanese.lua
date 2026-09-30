@@ -254,7 +254,6 @@ return {
 	["Shows arrows that point to off-screen objects"] =   "画面外の対象を指す矢印を表示します",
 	["Arrow Radius"] =   "矢印の半径",
 	["Shows the pathfind nodes entities follow in each room"] =   "各部屋でエンティティが辿る経路探索ノードを表示します",
-	["Free Rooms"] =   "自由な部屋",
 	["Free Outdoors"] =   "自由な屋外",
 	["Auto Join Elevator"] =   "エレベーターに自動参加",
 	["Automatically joins the selected player's elevator."] =   "選択したプレイヤーのエレベーターに自動で参加します。",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "アドオンフォルダは空です。実行環境のワークスペース内 '' に .lua ファイルを作成してください。",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "アドオンフォルダは空です。次の場所に .lua ファイルを挿入してください: '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "追加機能を Discord で共有しましょう！確認されていない追加内容やオープンソースでない追加機能は、悪意がある、または信頼できない可能性があります。使うものは慎重に選んでください。",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">これにより、屋外のゲームに移動しますが、管理者パネルの修飾剤が適用されます。無料ですが、実績や進捗は得られません。</font>",
 }

@@ -244,7 +244,6 @@ return {
 	["Arrow Radius"] =   "Raza săgeții",
 	["Show Entity Path"] =   "Arată traseul entităților",
 	["Shows the pathfind nodes entities follow in each room"] =   "Afișează nodurile de traseu urmate de entități în fiecare cameră",
-	["Free Rooms"] =   "Camere libere",
 	["Free Outdoors"] =   "Exterior liber",
 	["Auto Join Elevator"] =   "Intră automat în lift",
 	["Automatically joins the selected player's elevator."] =   "Intră automat în liftul jucătorului selectat.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Folderul tău de adiționări este gol. Creează fișiere .lua în spațiul de lucru al executorului tău la '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Folderul tău de adiționări este gol. Inserează un fișier .lua în '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Împărtășește adiționările tale pe discord! Adiționările neverificate sau care nu sunt open source ar putea fi malițioase sau nesigure. Fii atent la ceea ce alegi să folosești.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Asta te pune într-un joc în aer liber, dar cu modificatorul panoului de administrator, ceea ce înseamnă că este gratuit, dar nu poți obține nicio realizare sau progres.</font>",
 }

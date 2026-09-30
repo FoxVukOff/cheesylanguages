@@ -254,7 +254,6 @@ return {
 	["Shows arrows that point to off-screen objects"] =   "Mostra frecce che puntano agli oggetti fuori schermo",
 	["Arrow Radius"] =   "Raggio delle frecce",
 	["Shows the pathfind nodes entities follow in each room"] =   "Mostra i nodi di percorso che le entita seguono in ogni stanza",
-	["Free Rooms"] =   "Stanze libere",
 	["Free Outdoors"] =   "Esterni liberi",
 	["Auto Join Elevator"] =   "Unisciti automaticamente all'ascensore",
 	["Automatically joins the selected player's elevator."] =   "Si unisce automaticamente all'ascensore del giocatore selezionato.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "La tua cartella degli addon è vuota. Crea file .lua nell'area di lavoro del tuo executor in '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "La tua cartella degli addon è vuota. Inserisci un file .lua in '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Condividi i tuoi addon su discord! Gli addon non controllati o non open source potrebbero essere dannosi o inaffidabili. Fai attenzione a quello che decidi di usare.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Questo ti mette in un gioco all'aperto, ma con il modificatore del pannello admin, il che significa che è gratuito, ma non puoi ottenere risultati o progressi.</font>",
 }

@@ -253,7 +253,6 @@ return {
 	["Enable Arrows"] =   "Okları etkinleştir",
 	["Shows arrows that point to off-screen objects"] =   "Ekran dışı nesneleri gösteren okları gösterir",
 	["Arrow Radius"] =   "Ok yarıçapı",
-	["Free Rooms"] =   "Serbest odalar",
 	["Free Outdoors"] =   "Serbest dış alan",
 	["Auto Join Elevator"] =   "Otomatik asansöre katıl",
 	["Automatically joins the selected player's elevator."] =   "Seçili oyuncunun asansörüne otomatik olarak katılır.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Eklenti klasörün şu anda boş. Yürütücünün çalışma alanında şuraya .lua dosyaları oluştur: '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Eklenti klasörün şu anda boş. Şuraya bir .lua dosyası ekle: '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Eklentilerini discord'da paylaş! Kontrol edilmemiş veya açık kaynaklı olmayan eklentiler kötücül ya da güvenilmez olabilir. Kullanmayı seçtiğin şeylere dikkat et.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Bunu seni açık hava oyununa sokar, ancak yönetici paneli değiştiricisiyle, yani bedava olduğu anlamına gelir, ama hiçbir başarı veya ilerleme elde edemezsin.</font>",
 }

@@ -248,7 +248,6 @@ return {
 	["Arrow Radius"] =   "Nyil sugara",
 	["Show Entity Path"] =   "Entitás útvonalának megjelenítése",
 	["Shows the pathfind nodes entities follow in each room"] =   "Megjeleníti azokat az útvonalcsomópontokat, amelyeket az entitások követnek minden szobában",
-	["Free Rooms"] =   "Szabad szobák",
 	["Free Outdoors"] =   "Szabadtér",
 	["Auto Join Elevator"] =   "Automatikus belépés a liftbe",
 	["Automatically joins the selected player's elevator."] =   "Automatikusan belép a kiválasztott játékos liftjébe.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "A kiegészítőmappád jelenleg üres. Hozz létre .lua fájlokat a futtatód munkaterületén itt: '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "A kiegészítőmappád jelenleg üres. Helyezz be egy .lua fájlt ide: '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Oszd meg a kiegészítéseidet a Discordon! Az ellenőrizetlen vagy nem nyílt forráskódú kiegészítések rosszindulatúak vagy megbízhatatlanok lehetnek. Legyen óvatos, amit használsz.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Ez egy szabadtéri játékba tesz, de az adminisztrátor panel módosítójával, ami azt jelenti, hogy ingyenes, de nem szerezhetsz eredményeket vagy haladást.</font>",
 }

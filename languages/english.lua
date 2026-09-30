@@ -91,7 +91,6 @@ return {
 	["Fly"] =   "Fly",
 	["Fly Speed"] =   "Fly Speed",
 	["Free Outdoors"] =   "Free Outdoors",
-	["Free Rooms"] =   "Free Rooms",
 	["Freecam"] =   "Freecam",
 	["Freecam Speed"] =   "Freecam Speed",
 	["Fullbright"] =   "Fullbright",
@@ -444,4 +443,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Your addons folder is currently empty. Create .lua files in your executor workspace at '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Your addons folder is currently empty. Insert a .lua file into '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>",
 }

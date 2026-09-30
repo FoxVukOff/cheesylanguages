@@ -243,7 +243,6 @@ return {
 	["Arrow Radius"] =   "Poloměr šipek",
 	["Show Entity Path"] =   "Zobrazit cestu entit",
 	["Shows the pathfind nodes entities follow in each room"] =   "Zobrazí uzly cesty, kterými entity v každé místnosti procházejí",
-	["Free Rooms"] =   "Volné místnosti",
 	["Free Outdoors"] =   "Volné venkovní plochy",
 	["Auto Join Elevator"] =   "Automaticky nastoupit do výtahu",
 	["Automatically joins the selected player's elevator."] =   "Automaticky nastoupí do výtahu vybraného hráče.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Tvá složka doplňků je prázdná. Vytvoř soubory .lua v pracovním prostoru tvého executoru v '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Tvá složka doplňků je prázdná. Vlož soubor .lua do '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Sdílej své doplňky na discordu! Nekontrolované doplňky nebo doplňky, které nejsou open source, mohou být škodlivé nebo nespolehlivé. Buď opatrný s tím, co se rozhodneš použít.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Toto tě přesune do hry venku, ale s modifikátorem administrátorského panelu, což znamená, že je to zdarma, ale nezískáš žádné úspěchy ani postup.</font>",
 }

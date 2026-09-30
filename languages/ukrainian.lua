@@ -254,7 +254,6 @@ return {
 	["Shows arrows that point to off-screen objects"] =   "Показує стрілки, що вказують на об'єкти за межами екрана",
 	["Arrow Radius"] =   "Радіус стрілок",
 	["Shows the pathfind nodes entities follow in each room"] =   "Показує вузли пошуку шляху, за якими йдуть сутності в кожній кімнаті",
-	["Free Rooms"] =   "Вільні кімнати",
 	["Free Outdoors"] =   "Вільна вулиця",
 	["Auto Join Elevator"] =   "Автоматично увійти в ліфт",
 	["Automatically joins the selected player's elevator."] =   "Автоматично входить у ліфт вибраного гравця.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Папка аддонів порожня. Створи файли .lua у робочій області виконавця за шляхом '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Папка аддонів порожня. Встав файл .lua у '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Діліться своїми аддонами в дискорді! Неперевірені аддони чи аддони без відкритого коду можуть бути шкідливими або ненадійними. Обережно вибирайте, що використовуєте.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Це переносить тебе у гру на відкритому повітрі, але з модифікатором адмін-панелі, тобто це безкоштовно, але ти не зможеш отримати жодних досягнень чи прогресу.</font>",
 }

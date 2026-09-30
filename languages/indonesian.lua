@@ -244,7 +244,6 @@ return {
 	["Arrow Radius"] =   "Radius panah",
 	["Show Entity Path"] =   "Tampilkan jalur entitas",
 	["Shows the pathfind nodes entities follow in each room"] =   "Menampilkan node jalur yang diikuti entitas di tiap ruang",
-	["Free Rooms"] =   "Ruang bebas",
 	["Free Outdoors"] =   "Luar bebas",
 	["Auto Join Elevator"] =   "Gabung lift otomatis",
 	["Automatically joins the selected player's elevator."] =   "Otomatis bergabung ke lift pemain yang dipilih.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Folder addonmu saat ini kosong. Buat file .lua di ruang kerja eksekutormu di '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Folder addonmu saat ini kosong. Masukkan file .lua ke '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Bagikan addonmu di discord! Addon yang tidak diperiksa atau bukan sumber terbuka bisa berbahaya atau tidak tepercaya. Hati-hati dengan yang kamu pilih untuk digunakan.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Ini menempatkanmu dalam permainan luar ruangan, tetapi dengan Pengubah Panel Admin, yang berarti gratis, tetapi kamu tidak bisa mendapatkan prestasi atau progres apa pun.</font>",
 }

@@ -243,7 +243,6 @@ return {
 	["Arrow Radius"] =   "Ακτίνα βέλους",
 	["Show Entity Path"] =   "Εμφάνιση διαδρομής οντοτήτων",
 	["Shows the pathfind nodes entities follow in each room"] =   "Δείχνει τους κόμβους διαδρομής που ακολουθούν οι οντότητες σε κάθε δωμάτιο",
-	["Free Rooms"] =   "Ελεύθερα δωμάτια",
 	["Free Outdoors"] =   "Ελεύθεροι εξωτερικοί χώροι",
 	["Auto Join Elevator"] =   "Αυτόματη είσοδος στο ασανσέρ",
 	["Automatically joins the selected player's elevator."] =   "Μπαίνει αυτόματα στο ασανσέρ του επιλεγμένου παίκτη.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "Ο φάκελος των πρόσθετών σου είναι κενός. Δημιούργησε αρχεία .lua στον χώρο εργασίας του εκτελεστή σου στο '",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Ο φάκελος των πρόσθετών σου είναι κενός. Εισήγαγε ένα αρχείο .lua στο '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Μοίρασε τα πρόσθετά σου στο discord! Πρόσθετα που δεν έχουν ελεγχθεί ή δεν είναι ανοιχτού κώδικα μπορεί να είναι κακόβουλα ή αναξιόπιστα. Πρόσεχε τι αποφασίζεις να χρησιμοποιήσεις.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Αυτό σε βάζει σε ένα παιχνίδι σε εξωτερικό χώρο, αλλά με τον τροποποιητή του πίνακα διαχειριστή, που σημαίνει ότι είναι δωρεάν, αλλά δεν μπορείς να αποκτήσεις επιτεύγματα ή πρόοδο.</font>",
 }

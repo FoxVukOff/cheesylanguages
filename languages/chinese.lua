@@ -254,7 +254,6 @@ return {
 	["Shows arrows that point to off-screen objects"] =   "显示指向屏幕外物体的箭头",
 	["Arrow Radius"] =   "箭头半径",
 	["Shows the pathfind nodes entities follow in each room"] =   "显示每个房间中实体所遵循的寻路节点",
-	["Free Rooms"] =   "自由房间",
 	["Free Outdoors"] =   "自由户外",
 	["Auto Join Elevator"] =   "自动加入电梯",
 	["Automatically joins the selected player's elevator."] =   "自动加入所选玩家的电梯。",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "你的插件文件夹目前是空的。请在执行器工作区的 '' 中创建 .lua 文件。",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "你的插件文件夹目前是空的。请将 .lua 文件插入 '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "在 Discord 上分享你的插件！未经检查或非开源的插件可能具有恶意或不可靠。请谨慎选择你要使用的内容。",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">这会把你带入一个户外游戏，但带有管理员面板修改器，这意味着它是免费的，但你无法获得任何成就或进度。</font>",
 }

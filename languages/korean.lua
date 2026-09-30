@@ -254,7 +254,6 @@ return {
 	["Shows arrows that point to off-screen objects"] =   "화면 밖의 대상을 가리키는 화살표를 표시합니다",
 	["Arrow Radius"] =   "화살표 반경",
 	["Shows the pathfind nodes entities follow in each room"] =   "각 방에서 엔티티가 따라가는 경로 노드를 표시합니다",
-	["Free Rooms"] =   "자유 방",
 	["Free Outdoors"] =   "자유 야외",
 	["Auto Join Elevator"] =   "자동 엘리베이터 탑승",
 	["Automatically joins the selected player's elevator."] =   "선택한 플레이어의 엘리베이터에 자동으로 탑승합니다.",
@@ -445,4 +444,5 @@ return {
 	["Your addons folder is currently empty. Create .lua files in your executor workspace at '"] =   "애드온 폴더가 비어 있습니다. 실행 환경 작업 영역의 '' 에 .lua 파일을 만드세요.",
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "애드온 폴더가 비어 있습니다. 다음 위치에 .lua 파일을 넣으세요: '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "디스코드에서 애드온을 공유하세요! 확인되지 않았거나 오픈 소스가 아닌 애드온은 악성 코드이거나 신뢰할 수 없을 수 있습니다. 사용을 결정할 때는 주의하세요.",
+	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">이 기능은 실외 게임으로 이동하게 해 주지만 관리자 패널 수정자가 적용됩니다, 즉 무료이지만 어떤 업적이나 진행 상황도 얻을 수 없습니다.</font>",
 }
