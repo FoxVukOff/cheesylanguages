@@ -450,7 +450,6 @@ return {
 	["Yay"] =   "Yay",
 	["Uh oh"] =   "Uh oh",
 	["Welcome to cheesy"] =   "Welcome to cheesy",
-	["Guiding Light"] =   "Guiding Light",
 	["You haven't reached door 200..."] =   "You haven't reached door 200...",
 	["Could not find CurrentRooms"] =   "Could not find CurrentRooms",
 	["Could not find the current room"] =   "Could not find the current room",
