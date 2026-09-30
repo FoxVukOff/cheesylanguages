@@ -444,4 +444,9 @@ return {
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "アドオンフォルダは空です。次の場所に .lua ファイルを挿入してください: '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "追加機能を Discord で共有しましょう！確認されていない追加内容やオープンソースでない追加機能は、悪意がある、または信頼できない可能性があります。使うものは慎重に選んでください。",
 	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">これにより、屋外のゲームに移動しますが、管理者パネルの修飾剤が適用されます。無料ですが、実績や進捗は得られません。</font>",
+	["FPS"] =   "FPS",
+	["Ping"] =   "Ping",
+	["Executor"] =   "エクスプロイト",
+	["User"] =   "ユーザー",
+	["cheesy"] =   "cheesy",
 }

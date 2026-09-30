@@ -444,4 +444,9 @@ return {
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Je addons-map is leeg. Plaats een .lua-bestand in '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Deel je addons op de discord! Addons die niet gecontroleerd of niet open source zijn kunnen schadelijk of onbetrouwbaar zijn. Wees voorzichtig met wat je gebruikt.",
 	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Dit zet je in een spel buiten, maar met de adminpaneel-modifier, wat betekent dat het gratis is, maar je geen prestaties of voortgang kunt behalen.</font>",
+	["FPS"] =   "FPS",
+	["Ping"] =   "Ping",
+	["Executor"] =   "Executor",
+	["User"] =   "Gebruiker",
+	["cheesy"] =   "cheesy",
 }

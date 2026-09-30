@@ -444,4 +444,9 @@ return {
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Thư mục add-on của bạn hiện đang trống. Hãy chèn một tệp .lua vào '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Hãy chia sẻ add-on của bạn trên discord! Những add-on chưa được kiểm tra hoặc không phải mã nguồn mở có thể độc hại hoặc không đáng tin cậy. Hãy cẩn thận với những gì bạn chọn sử dụng.",
 	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Điều này đưa bạn vào một trò chơi ngoài trời, nhưng với bộ sửa đổi bảng quản trị, nghĩa là miễn phí, nhưng bạn không thể đạt được bất kỳ thành tự hoặc tiến độ nào.</font>",
+	["FPS"] =   "FPS",
+	["Ping"] =   "Ping",
+	["Executor"] =   "Trình thực thi",
+	["User"] =   "Người dùng",
+	["cheesy"] =   "cheesy",
 }

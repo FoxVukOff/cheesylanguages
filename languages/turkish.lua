@@ -444,4 +444,9 @@ return {
 	["Your addons folder is currently empty. Insert a .lua file into '"] =   "Eklenti klasörün şu anda boş. Şuraya bir .lua dosyası ekle: '",
 	["Share your addons in the discord! Addons that aren't checked or aren't open source could be malicious or untrustworthy. Be careful with what you decide to use."] =   "Eklentilerini discord'da paylaş! Kontrol edilmemiş veya açık kaynaklı olmayan eklentiler kötücül ya da güvenilmez olabilir. Kullanmayı seçtiğin şeylere dikkat et.",
 	["<font size=\"14\">This puts you into a game of outdoors, but with the admin panel modifier, meaning that it is free, but you can not get any achievements/progress.</font>"] =   "<font size=\"14\">Bunu seni açık hava oyununa sokar, ancak yönetici paneli değiştiricisiyle, yani bedava olduğu anlamına gelir, ama hiçbir başarı veya ilerleme elde edemezsin.</font>",
+	["FPS"] =   "FPS",
+	["Ping"] =   "Gecikme",
+	["Executor"] =   "Yürütücü",
+	["User"] =   "Kullanıcı",
+	["cheesy"] =   "cheesy",
 }
