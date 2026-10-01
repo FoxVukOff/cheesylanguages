@@ -377,7 +377,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombat'lar ortaya çıktı, ışıkları kapat !",
 	["Drones are stampeding, hide!"] =   "Drone'lar üstüne geliyor, saklan !",
 	["Electric Puddle nearby!"] =   "Yakında elektrik birikintisi var !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles geliyor, godmode çalışmıyor, saklan !",
 	["You've moved 3+ studs upward!"] =   "3 stud veya daha yukarı çıktın !",
 	["Your oxygen is at"] =   "Oksijenin ",
 	["Haste is coming in"] =   "Haste geliyor, ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Önce açılır listeden bir dil seçin",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   "geliyor, ama godmode açık olduğu için endişelenmeyin!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise belirdi, nerede hareket ettigine dikkat et!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak belirdi, ona bak ve ona dogru yuruyor!",
+	["Scribbles is coming, hide!"] =   "Scribbles geliyor, saklan!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles geliyor, ama Scribbles hasarin kapali, endiselenme!",
 }

@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombat au apărut, stinge lumina!",
 	["Drones are stampeding, hide!"] =   "Dronele vin în val, ascunde-te!",
 	["Electric Puddle nearby!"] =   "Bâltoacă electrică în apropiere!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles vine! Godmode nu funcționează, ascunde-te!",
 	["Entity detected"] =   "Entitate detectată",
 	["You've moved 3+ studs upward!"] =   "Ai urcat 3+ unități!",
 	["Your oxygen is at"] =   "Nivelul tău de oxigen este ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Alege mai întâi o limbă din meniul derulant",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " vine, dar ai godmode activat, nu îți face griji!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise a aparut, ai grija unde te misti!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak a aparut, priveste-l si mergi spre el!",
+	["Scribbles is coming, hide!"] =   "Scribbles vine, ascunde-te!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles vine, dar ai dezactivat damage-ul de Scribbles, nu iti fa griji!",
 }

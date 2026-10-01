@@ -172,7 +172,6 @@ return {
 	["Remove Surge"] =   "Remove Surge",
 	["Reset Character"] =   "Reset Character",
 	["Return to Lobby"] =   "Return to Lobby",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles is coming, godmode does not work, hide!",
 	["Seek Path"] =   "Seek Path",
 	["Show Crucifix"] =   "Show Crucifix",
 	["Show Distance"] =   "Show Distance",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Pick a language from the dropdown first",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don't worry!"] =   "is coming, but you have godmode enabled so don't worry!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise has spawned, be careful with where you move!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak has spawned, look at him and walk at him!",
+	["Scribbles is coming, hide!"] =   "Scribbles is coming, hide!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles is coming, but you have no scribbles damage on so don\'t worry!",
 }

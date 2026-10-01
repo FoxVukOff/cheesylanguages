@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombat har dykt upp, släck lamporna!",
 	["Drones are stampeding, hide!"] =   "Dronerna stormar, göm dig!",
 	["Electric Puddle nearby!"] =   "Elektrisk pöl i närheten!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles är på väg! Godmode fungerar inte, göm dig!",
 	["Entity detected"] =   "Entitet upptäckt",
 	["You've moved 3+ studs upward!"] =   "Du har rört dig 3+ stud uppåt!",
 	["Your oxygen is at"] =   "Din syrenivå är ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Välj först ett språk i rullmenyn",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " kommer, men du har godmode på, oroa dig inte!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise har dykt upp, var uppmarksam var du ror dig!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak har dykt upp, titta pa honom och ga mot honom!",
+	["Scribbles is coming, hide!"] =   "Scribbles kommer, gom dig!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles kommer, men du har avstangt Scribbles-skadan, oroa dig inte!",
 }

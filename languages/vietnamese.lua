@@ -374,7 +374,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombat da xuat hien, tat den di !",
 	["Drones are stampeding, hide!"] =   "Drone dang lao toi, hay an minh !",
 	["Electric Puddle nearby!"] =   "Co vung dien gan day !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles dang den, bat tu khong hoat dong, hay an minh !",
 	["Entity detected"] =   "Phat hien thuc the",
 	["You've moved 3+ studs upward!"] =   "Ban da di len 3 stud tro len !",
 	["Your oxygen is at"] =   "Luong oxy cua ban dang o ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Hãy chọn một ngôn ngữ từ danh sách thả xuống trước",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " đang đến, nhưng bạn đã bật godmode, đừng lo!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise da xuat hien, hay can thanh khi ban di chuyen!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak da xuat hien, nhin no va di ve phia no!",
+	["Scribbles is coming, hide!"] =   "Scribbles dang den, hay an nap!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles dang den, nhung ban da tat sat thuong tu Scribbles, dung lo!",
 }

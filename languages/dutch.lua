@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "De Gloombats zijn verschenen, doe het licht uit !",
 	["Drones are stampeding, hide!"] =   "De drones storten op, verstop je !",
 	["Electric Puddle nearby!"] =   "Elektrische plas in de buurt !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles komt eraan, godmode werkt niet, verstop je !",
 	["You've moved 3+ studs upward!"] =   "Je bent 3 of meer studs omhoog gegaan !",
 	["Your oxygen is at"] =   "Je zuurstof is op ",
 	["Haste is coming in"] =   "Haste komt over ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Kies eerst een taal uit de keuzelijst",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   "komt, maar je hebt godmode aan, maak je geen zorgen!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise is verschenen, let op waar je je beweegt!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak is verschenen, kijk naar hem en loop naar hem toe!",
+	["Scribbles is coming, hide!"] =   "Scribbles komt, verstop je!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles komt, maar je hebt de Scribbles-schade uitgeschakeld, maak je geen zorgen!",
 }

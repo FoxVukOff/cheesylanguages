@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombatが出現しました、照明を消してください！",
 	["Drones are stampeding, hide!"] =   "ドローンが群れをなして突進しています、隠れましょう！",
 	["Electric Puddle nearby!"] =   "近くに電気の水たまりがあります！",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribblesが来る！ゴッドモードは効きません、隠れましょう！",
 	["You've moved 3+ studs upward!"] =   "3スタッド以上上昇しました！",
 	["Your oxygen is at"] =   "酸素量は ",
 	["Haste is coming in"] =   "Hasteの登場まで ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "まずドロップダウンから言語を選択してください",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " が近づいていますが、godmodeが有効なので心配はいりません！",
+	["Noise has spawned, be careful with where you move!"] =   "Noiseが出現、移動する場所に注意が必要です！",
+	["Creak has spawned, look at him and walk at him!"] =   "Creakが出現、それを見て近づいてください！",
+	["Scribbles is coming, hide!"] =   "Scribblesが来る、隠れて！",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribblesが来る、でもScribblesのダメージは無効なので心配不要！",
 }

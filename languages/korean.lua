@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombat이 등장했습니다, 불을 끄세요!",
 	["Drones are stampeding, hide!"] =   "드론이 몰려오고 있습니다, 숨으세요!",
 	["Electric Puddle nearby!"] =   "가까이에 전기 웅덩이가 있습니다!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles이 옵니다! 고드모드는 먹히지 않으니 숨으세요!",
 	["You've moved 3+ studs upward!"] =   "3스터드 이상 올라갔습니다!",
 	["Your oxygen is at"] =   "산소 수치는 ",
 	["Haste is coming in"] =   "Haste 등장까지 ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "먼저 드롭다운에서 언어를 선택하세요",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " 이(가) 다가오지만 godmode가 켜져 있으니 걱정하지 마세요!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise가 나타났습니다, 움직이는 곳을 주의하세요!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak이(가) 나타났습니다, 그를 보고 그에게 다가가세요!",
+	["Scribbles is coming, hide!"] =   "Scribbles가 옵니다, 숨으세요!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles가 오지만 Scribbles 피해가 꺼져 있으니 걱정하지 마세요!",
 }

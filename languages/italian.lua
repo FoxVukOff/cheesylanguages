@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "I Gloombat sono comparsi, spegni le luci !",
 	["Drones are stampeding, hide!"] =   "I droni stanno investendoti, nasconditi !",
 	["Electric Puddle nearby!"] =   "C'e una pozza elettrica vicino !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles sta arrivando, il godmode non funziona, nasconditi !",
 	["You've moved 3+ studs upward!"] =   "Sei salito di 3 o piu studi !",
 	["Your oxygen is at"] =   "Il tuo ossigeno e a ",
 	["Haste is coming in"] =   "Haste arriva tra ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Scegli prima una lingua dal menu a tendina",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   "sta arrivando, ma hai il godmode attivo, non preoccuparti!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise e apparso, fai attenzione a dove ti muovi!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak e apparso, guardalo e cammina verso di lui!",
+	["Scribbles is coming, hide!"] =   "Scribbles sta arrivando, nasconditi!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles sta arrivando, ma hai i danni di Scribbles disattivati, non preoccuparti!",
 }

@@ -384,7 +384,6 @@ return {
 	["A-120 is coming, godmode does not work, hide!"] =   "A-120 viene, el godmode no funciona, escondete !",
 	["Sally has spawned, grab her horse and hold it out or hold out an item of your own!"] =   "Sally ha aparecido, agarra su caballo y sostenelo delante o saca un objeto tuyo !",
 	["Gloombats have spawned, turn off lights!"] =   "Han aparecido los Gloombats, apaga las luces !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles viene, el godmode no funciona, escondete !",
 	["You've moved 3+ studs upward!"] =   "Has subido 3 o mas studs !",
 	["Your oxygen is at"] =   "Tu oxigeno esta en ",
 	["Haste is coming in"] =   "Haste llega en ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Primero elige un idioma en el desplegable",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   "viene, pero tienes el godmode activado, ¡no te preocupes!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise ha aparecido, ¡ten cuidado con dónde te mueves!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak ha aparecido, ¡míralo y camina hacia él!",
+	["Scribbles is coming, hide!"] =   "Scribbles viene, ¡escondete!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles viene, pero tienes el daño de Scribbles desactivado, ¡no te preocupes!",
 }

@@ -127,7 +127,6 @@ return {
 	["Eyes has spawned, look away!"] =   "Les yeux sont apparus, détournez-vous !",
 	["Lookman has spawned, look away!"] =   "Lookman est apparu, détournez-vous !",
 	["Monument has spawned, look at it!"] =   "Le monument est apparu, regardez-le !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles arrive, le godmode ne marche pas, cachez-vous !",
 	["A-120 is coming, godmode does not work, hide!"] =   "A-120 arrive, le godmode ne marche pas, cachez-vous !",
 	["Drones are stampeding, hide!"] =   "Les drones chargent, cachez-vous !",
 	["Electric Puddle nearby!"] =   "Flaque électrique à proximité !",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Choisissez d\'abord une langue dans la liste déroulante",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   "arrive, mais vous avez le godmode activé, ne vous inquiétez pas !",
+	["Noise has spawned, be careful with where you move!"] =   "Noise est apparu, faites attention où vous vous déplacez !",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak est apparu, regardez-le et avancez vers lui !",
+	["Scribbles is coming, hide!"] =   "Scribbles arrive, cachez-vous !",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles arrive, mais vous avez les dégâts de Scribbles désactivés, ne vous inquiétez pas !",
 }

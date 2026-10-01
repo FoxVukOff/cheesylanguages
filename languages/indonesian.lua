@@ -374,7 +374,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Gloombat telah muncul, matikan lampunya !",
 	["Drones are stampeding, hide!"] =   "Drone menyerbu, bersembunyi !",
 	["Electric Puddle nearby!"] =   "Ada genangan listrik di dekat sini !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles datang, godmode tidak bekerja, bersembunyi !",
 	["Entity detected"] =   "Entitas terdeteksi",
 	["You've moved 3+ studs upward!"] =   "Kamu naik 3 stud atau lebih !",
 	["Your oxygen is at"] =   "Oksigenmu berada di ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Pilih bahasa dari dropdown terlebih dahulu",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " datang, tetapi kamu mengaktifkan godmode, jangan khawatir!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise telah muncul, perhatikan ke mana kamu bergerak!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak telah muncul, lihat dia dan berjalan mendekatinya!",
+	["Scribbles is coming, hide!"] =   "Scribbles datang, bersembunyi!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles datang, tapi kamu mengaktifkan melukai Scribbles, jangan khawatir!",
 }

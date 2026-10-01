@@ -373,7 +373,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Objevili se Gloombat, zhasněte světla!",
 	["Drones are stampeding, hide!"] =   "Drony se ženou kupředu, schovejte se!",
 	["Electric Puddle nearby!"] =   "Nablízku je elektrická kaluž!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Blíží se Scribbles! Godmode nefunguje, schovejte se!",
 	["Entity detected"] =   "Entita zjištěna",
 	["You've moved 3+ studs upward!"] =   "Stoupli jste o 3 a více studů!",
 	["Your oxygen is at"] =   "Vaše množství kyslíku je ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Nejprve vyberte jazyk v rozbalovacím seznamu",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " se blíží, ale máš zapnutý godmode, nemusíš se bát!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise se objevil, davaj pozor, kde se pohybujes!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak se objevil, divej se na nej a jdi k nemu!",
+	["Scribbles is coming, hide!"] =   "Scribbles prichazi, schovej se!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles prichazi, ale mas vypnute poskozeni od Scribbles, nemusis se bat!",
 }

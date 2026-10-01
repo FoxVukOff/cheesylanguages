@@ -374,7 +374,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "ظهرت Gloombat، أطفئ الأنوار!",
 	["Drones are stampeding, hide!"] =   "الدرون تزحف بكثافة، اختبئ!",
 	["Electric Puddle nearby!"] =   "توجد بركة كهربائية بالقرب منك!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Scribbles قادم! الوضع الإلهي لا يعمل، اختبئ!",
 	["Entity detected"] =   "تم رصد كيان",
 	["You've moved 3+ studs upward!"] =   "لقد تحركت 3 وحدات للأعلى أو أكثر!",
 	["Your oxygen is at"] =   "مستوى الأكسجين لديك هو ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "اختر لغة من القائمة المنسدلة أولاً",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " قادم، لكن لديك godmode مُفعّل، فلا تقلق!",
+	["Noise has spawned, be careful with where you move!"] =   "ظهر Noise، كن حذرا من المكان الذي تتحرك فيه!",
+	["Creak has spawned, look at him and walk at him!"] =   "ظهر Creak، انظر اليه وامشِ باتجاهه!",
+	["Scribbles is coming, hide!"] =   "Scribbles قادم، اختبئ!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles قادم، لكن الضرر منه معطل، فلا تقلق!",
 }

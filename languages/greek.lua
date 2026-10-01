@@ -373,7 +373,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Εμφανίστηκαν τα Gloombat, σβήστε τα φώτα!",
 	["Drones are stampeding, hide!"] =   "Τα drones επιτίθενται ορμαδικά, κρυφτείτε!",
 	["Electric Puddle nearby!"] =   "Υπάρχει ηλεκτρική λούζα κοντά σας!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Έρχονται τα Scribbles! Το Godmode δεν λειτουργεί, κρυφτείτε!",
 	["Entity detected"] =   "Εντοπίστηκε οντότητα",
 	["You've moved 3+ studs upward!"] =   "Ανεβήκατε 3+ studs!",
 	["Your oxygen is at"] =   "Το οξυγόνο σας είναι ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Επιλέξτε πρώτα μια γλώσσα από το αναπτυσσόμενο μενού",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " έρχεται, αλλά έχεις ενεργοποιημένο το godmode, μην ανησύχεις!",
+	["Noise has spawned, be careful with where you move!"] =   "O Noise εμφανίστηκε, πρόσεξε πού πηγαίνεις!",
+	["Creak has spawned, look at him and walk at him!"] =   "O Creak εμφανίστηκε, δες τον και πήγαινε προς αυτόν!",
+	["Scribbles is coming, hide!"] =   "Ο Scribbles έρχεται, κρύψου!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Ο Scribbles έρχεται, αλλά έχεις απενεργοποιημένη τη ζημιά από Scribbles, μην ανησύχεις!",
 }

@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "幽蝠已生成，关灯！",
 	["Drones are stampeding, hide!"] =   "无人机正践踏而来，快躲起来！",
 	["Electric Puddle nearby!"] =   "附近有电水坑！",
-	["Scribbles is coming, godmode does not work, hide!"] =   "乱涂要来了，无敌无效，快躲起来！",
 	["You've moved 3+ studs upward!"] =   "你已向上移动 3+ 格！",
 	["Your oxygen is at"] =   "你的氧气为 ",
 	["Haste is coming in"] =   "Haste 将在以下时间后出现 ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "请先从下拉框中选择语言",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " 正在靠近，但你已开启无敌模式，别担心！",
+	["Noise has spawned, be careful with where you move!"] =   "Noise 出现了，小心你移动的位置！",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak 出现了，看着他并朝他走过去！",
+	["Scribbles is coming, hide!"] =   "Scribbles 来了，快躲起来！",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles 来了，但你已关闭 Scribbles 伤害，别担心！",
 }

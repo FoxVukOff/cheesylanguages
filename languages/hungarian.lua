@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Megjelentek a Gloombatok, oltsd ki a fényeket!",
 	["Drones are stampeding, hide!"] =   "A drónok rohamoznak, bújj el!",
 	["Electric Puddle nearby!"] =   "Elektromos pocsolya van a közelben!",
-	["Scribbles is coming, godmode does not work, hide!"] =   "A Scribbles közeleg! A Godmode nem működik, bújj el!",
 	["Entity detected"] =   "Entitás észlelve",
 	["You've moved 3+ studs upward!"] =   "3 vagy több studdal feljebb mozdultál!",
 	["Your oxygen is at"] =   "Az oxigénszinted ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Először válasszon nyelvet a legördülő menüből",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " közeledik, de be van kapcsolva a godmode, ne aggódj!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise megjelent, figyelj oda, hol mozgolsz!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak megjelent, nezd meg, es menj felele!",
+	["Scribbles is coming, hide!"] =   "Scribbles jon, bujj el!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles jon, de kikapcsoltad a Scribbles sebzesest, ne aggodj!",
 }

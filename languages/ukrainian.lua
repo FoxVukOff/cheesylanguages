@@ -378,7 +378,6 @@ return {
 	["Gloombats have spawned, turn off lights!"] =   "Глумбати з'явилися, вимкніть світло !",
 	["Drones are stampeding, hide!"] =   "Дрони несуться на вас, ховайтеся !",
 	["Electric Puddle nearby!"] =   "Електрична калюжа поблизу !",
-	["Scribbles is coming, godmode does not work, hide!"] =   "Наближається Scribbles, бог не працює, ховайтеся !",
 	["You've moved 3+ studs upward!"] =   "Ви піднялися на 3+ стади !",
 	["Your oxygen is at"] =   "Ваш кисень на рівні ",
 	["Haste is coming in"] =   "Хальт з'явиться через ",
@@ -460,4 +459,8 @@ return {
 	["Pick a language from the dropdown first"] =   "Спочатку виберіть мову у випадному списку",
 	["Re-executing the script to apply"] =   "Re-executing the script to apply ",
 	["is coming, but you have godmode enabled so don\'t worry!"] =   " наближається, але у вас увімкнено godmode, не хвилюйтеся!",
+	["Noise has spawned, be careful with where you move!"] =   "Noise з\'явився, слідкуйте, куди ви рухаєтеся!",
+	["Creak has spawned, look at him and walk at him!"] =   "Creak з\'явився, подивіться на нього і підійдіть до нього!",
+	["Scribbles is coming, hide!"] =   "Scribbles наближається, сховайтеся!",
+	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles наближається, але шкода від Scribbles вимкнена, не хвилюйтеся!",
 }
