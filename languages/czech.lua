@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Odstranit Figuru (FE)",
 	["Main"] =   "Hlavní",
+	["Removes figure for everyone, however this is inconsistent"] =   "Odebere figuru všem, ale toto je nekonzistentní",
 	["Visuals"] =   "Vizuální",
 	["Exploits"] =   "Exploity",
 	["Miscellaneous"] =   "Ostatní",
@@ -255,7 +257,6 @@ return {
 	["Anti Alma"] =   "Proti Alme",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Zabrání Alme, aby s vámi kdykoli interagovala, takže na ni můžete volně hledět",
 	["Anti Electric Puddle"] =   "Proti elektrické kaluži",
-	["Moves your character above to not step on electric puddles"] =   "Zvedne postavu nahoru, aby nešlapala do elektrických kaluží",
 	["Anti Ransom"] =   "Proti Ransom",
 	["Prevents ransom from attacking you even when moving"] =   "Zabrání Ransom v útoku, i když se pohybujete",
 	["No Scribbles Damage"] =   "Bez poškození od Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak se objevil, divej se na nej a jdi k nemu!",
 	["Scribbles is coming, hide!"] =   "Scribbles prichazi, schovej se!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles prichazi, ale mas vypnute poskozeni od Scribbles, nemusis se bat!",
+	["Prevents you from getting damaged from electric puddles"] =   "Brani poskozim od elektrickych kaluzi",
 }

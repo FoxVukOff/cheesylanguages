@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Διαγραφή Μορφής (FE)",
 	["Main"] =   "Κύριο",
+	["Removes figure for everyone, however this is inconsistent"] =   "Αφαιρεί τη φιγούρα για όλους, ωστόσο αυτό είναι ασυνεπές",
 	["Visuals"] =   "Οπτικά",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Διαφορά",
@@ -255,7 +257,6 @@ return {
 	["Anti Alma"] =   "Αντι-Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Αποτρέπει την Alma από το να αλληλεπιδρήσει ποτέ μαζί σας, οπότε μπορείτε να τη βλέπετε ελεύθερα",
 	["Anti Electric Puddle"] =   "Αντι-Ηλεκτρική Λούζα",
-	["Moves your character above to not step on electric puddles"] =   "Μετακινεί τον χαρακτήρα σας ψηλά για να μην πατάτε σε ηλεκτρικές λούζες",
 	["Anti Ransom"] =   "Αντι-Ransom",
 	["Prevents ransom from attacking you even when moving"] =   "Αποτρέπει το Ransom από το να σας επιτεθεί ακόμη και ενώ κινείστε",
 	["No Scribbles Damage"] =   "Χωρίς ζημιά από Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "O Creak εμφανίστηκε, δες τον και πήγαινε προς αυτόν!",
 	["Scribbles is coming, hide!"] =   "Ο Scribbles έρχεται, κρύψου!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Ο Scribbles έρχεται, αλλά έχεις απενεργοποιημένη τη ζημιά από Scribbles, μην ανησύχεις!",
+	["Prevents you from getting damaged from electric puddles"] =   "Αποτρέπει τη ζημιά από ηλεκτρικές λακκούλες",
 }

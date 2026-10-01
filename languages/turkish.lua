@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Figürü Sil (FE)",
 	["Main"] =   "Ana Sayfa",
+	["Removes figure for everyone, however this is inconsistent"] =   "Figürü herkes için kaldırır, ancak bu tutarsızdır",
 	["Visuals"] =   "Gorseller",
 	["Exploits"] =   "Exploitler",
 	["Miscellaneous"] =   "Cesitli",
@@ -265,7 +267,6 @@ return {
 	["Anti Alma"] =   "Anti Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Alma'nın seninle hiç etkileşime girmesini engeller, ona özgürce bakabilirsin",
 	["Anti Electric Puddle"] =   "Anti elektrik birikintisi",
-	["Moves your character above to not step on electric puddles"] =   "Elektrik birikintilerine basmamak için karakterini yukarı taşır",
 	["Anti Ransom"] =   "Anti fidye",
 	["Prevents ransom from attacking you even when moving"] =   "Fidyeinin hareket ederken bile sana saldırmasını engeller",
 	["No Scribbles Damage"] =   "Scribbles hasarı yok",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak belirdi, ona bak ve ona dogru yuruyor!",
 	["Scribbles is coming, hide!"] =   "Scribbles geliyor, saklan!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles geliyor, ama Scribbles hasarin kapali, endiselenme!",
+	["Prevents you from getting damaged from electric puddles"] =   "Elektrikli birikintilerden aldiginiz hasari onler",
 }

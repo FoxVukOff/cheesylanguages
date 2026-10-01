@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Xoá Hình Nộm (FE)",
 	["Main"] =   "Chinh",
+	["Removes figure for everyone, however this is inconsistent"] =   "Xoá tượng cho mọi người, nhưng điều này không ổn định",
 	["Visuals"] =   "Hinh anh",
 	["Exploits"] =   "Exploit",
 	["Miscellaneous"] =   "Khac",
@@ -256,7 +258,6 @@ return {
 	["Anti Alma"] =   "Chong Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Ngan Alma tuong tac voi ban, ban co the nhin co ay tuy y",
 	["Anti Electric Puddle"] =   "Chong vung dien",
-	["Moves your character above to not step on electric puddles"] =   "Dua nhan vat len cao de khong buoc phai vung dien",
 	["Anti Ransom"] =   "Chong biet tien",
 	["Prevents ransom from attacking you even when moving"] =   "Ngan biet tien tan cong ban ke ca khi ban dang di chuyen",
 	["No Scribbles Damage"] =   "Khong bi sat thuong tu Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak da xuat hien, nhin no va di ve phia no!",
 	["Scribbles is coming, hide!"] =   "Scribbles dang den, hay an nap!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles dang den, nhung ban da tat sat thuong tu Scribbles, dung lo!",
+	["Prevents you from getting damaged from electric puddles"] =   "Ngan gay sat thuong tu vat dien",
 }

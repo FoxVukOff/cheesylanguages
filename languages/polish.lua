@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Usuń Figurę (FE)",
 	["Main"] =   "Glowna",
+	["Removes figure for everyone, however this is inconsistent"] =   "Usuwa figurę dla wszystkich, jednak jest to niespójne",
 	["Visuals"] =   "Wizualne",
 	["Exploits"] =   "Exploity",
 	["Miscellaneous"] =   "Rozne",
@@ -264,7 +266,6 @@ return {
 	["Anti Alma"] =   "Anty Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Zapobiega, by Alma kiedykolwiek wchodzila z toba w interakcje, mozesz na nia patrzec swobodnie",
 	["Anti Electric Puddle"] =   "Anty kaluza elektryczna",
-	["Moves your character above to not step on electric puddles"] =   "Przenosi postac wyzej, aby nie wchodzic na kaluze elektryczne",
 	["Anti Ransom"] =   "Anty zastek",
 	["Prevents ransom from attacking you even when moving"] =   "Zapobiega zastekowi atakowaniu cie, nawet gdy sie poruszasz",
 	["No Scribbles Damage"] =   "Brak obrazen od Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak sie pojawil, spojrz na niego i podejdz do niego!",
 	["Scribbles is coming, hide!"] =   "Scribbles nadchodzi, ukryj sie!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles nadchodzi, ale obrazenia od Scribbles sa wylaczone, nie martw sie!",
+	["Prevents you from getting damaged from electric puddles"] =   "Zapobiega szkodom od elektrycznych kaluzy",
 }

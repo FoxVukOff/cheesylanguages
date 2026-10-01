@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "حذف التمثال (FE)",
 	["Main"] =   "الرئيسية",
+	["Removes figure for everyone, however this is inconsistent"] =   "يزيل التمثال للجميع، لكن هذا غير متسق",
 	["Visuals"] =   "المؤثرات",
 	["Exploits"] =   "الاختراقات",
 	["Miscellaneous"] =   "متفرق",
@@ -256,7 +258,6 @@ return {
 	["Anti Alma"] =   "مضاد Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "يمنع Alma من التفاعل معك نهائيًا / يمكنك النظر إليها بحرية",
 	["Anti Electric Puddle"] =   "مضاد البركة الكهربائية",
-	["Moves your character above to not step on electric puddles"] =   "يرفع شخصيتك للأعلى حتى لا تدوس على البرك الكهربائية",
 	["Anti Ransom"] =   "مضاد Ransom",
 	["Prevents ransom from attacking you even when moving"] =   "يمنع Ransom من مهاجمتك حتى أثناء الحركة",
 	["No Scribbles Damage"] =   "بدون ضرر من Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "ظهر Creak، انظر اليه وامشِ باتجاهه!",
 	["Scribbles is coming, hide!"] =   "Scribbles قادم، اختبئ!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles قادم، لكن الضرر منه معطل، فلا تقلق!",
+	["Prevents you from getting damaged from electric puddles"] =   "يمنع الضرر من البرك الكهربائية",
 }

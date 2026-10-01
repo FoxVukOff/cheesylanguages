@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Figura törlése (FE)",
 	["Main"] =   "Fooldal",
+	["Removes figure for everyone, however this is inconsistent"] =   "Eltávolítja a figurát mindenkinek, de ez nem konzisztens",
 	["Visuals"] =   "Vizuális",
 	["Exploits"] =   "Exploitok",
 	["Miscellaneous"] =   "Egyéb",
@@ -260,7 +262,6 @@ return {
 	["Anti Alma"] =   "Alma ellen",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Megakadályozza, hogy az Alma bármikor interakcióba lépjen veled, így szabadon ránézhetsz",
 	["Anti Electric Puddle"] =   "Elektromos pocsolya ellen",
-	["Moves your character above to not step on electric puddles"] =   "Feljebb mozgatja a karikatered, hogy ne lépj elektromos pocsolyákba",
 	["Anti Ransom"] =   "Ransom ellen",
 	["Prevents ransom from attacking you even when moving"] =   "Megakadályozza, hogy a Ransom akkor is megtámadjon, amikor mozogsz",
 	["No Scribbles Damage"] =   "Nincs Scribbles kár",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak megjelent, nezd meg, es menj felele!",
 	["Scribbles is coming, hide!"] =   "Scribbles jon, bujj el!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles jon, de kikapcsoltad a Scribbles sebzesest, ne aggodj!",
+	["Prevents you from getting damaged from electric puddles"] =   "Megakadalyoztatja az elektromos tocsok okozta sebesuleset",
 }

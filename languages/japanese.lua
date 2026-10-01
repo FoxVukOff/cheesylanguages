@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "フィギュアを削除 (FE)",
 	["Main"] =   "メイン",
+	["Removes figure for everyone, however this is inconsistent"] =   "全員から雕像を削除しますが、動作は不安定です",
 	["Visuals"] =   "表示",
 	["Exploits"] =   "エクスプロイト",
 	["Miscellaneous"] =   "その他",
@@ -266,7 +268,6 @@ return {
 	["Anti Alma"] =   "Alma対策",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Almaから呼びかけられるのを防ぎます (彼女を自由に見ることができます)",
 	["Anti Electric Puddle"] =   "電気の水たまり対策",
-	["Moves your character above to not step on electric puddles"] =   "電気の水たまりを踏まないようにキャラクターを上に移動します",
 	["Anti Ransom"] =   "Ransom対策",
 	["Prevents ransom from attacking you even when moving"] =   "移動中でもRansomの攻撃を受けないようにします",
 	["No Scribbles Damage"] =   "Scribblesのダメージなし",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creakが出現、それを見て近づいてください！",
 	["Scribbles is coming, hide!"] =   "Scribblesが来る、隠れて！",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribblesが来る、でもScribblesのダメージは無効なので心配不要！",
+	["Prevents you from getting damaged from electric puddles"] =   "電気の水たまりからのダメージを防ぎます",
 }

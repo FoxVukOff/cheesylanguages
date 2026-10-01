@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Видалити фігуру (FE)",
 	["Main"] =   "Головна",
+	["Removes figure for everyone, however this is inconsistent"] =   "Видаляє фігуру для всіх, але це нестабільно",
 	["Visuals"] =   "Візуальні",
 	["Exploits"] =   "Експлойти",
 	["Miscellaneous"] =   "Різне",
@@ -266,7 +268,6 @@ return {
 	["Anti Alma"] =   "Анти-Альма",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Не дає Альмі взаємодіяти з вами, ви можете вільно на неї дивитися",
 	["Anti Electric Puddle"] =   "Анти-електрична калюжа",
-	["Moves your character above to not step on electric puddles"] =   "Піднімає персонажа, щоб не наступати на електричні калюжі",
 	["Anti Ransom"] =   "Анти-викуп",
 	["Prevents ransom from attacking you even when moving"] =   "Не дає викупу атакувати вас навіть під час руху",
 	["No Scribbles Damage"] =   "Без шкоди від Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak з\'явився, подивіться на нього і підійдіть до нього!",
 	["Scribbles is coming, hide!"] =   "Scribbles наближається, сховайтеся!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles наближається, але шкода від Scribbles вимкнена, не хвилюйтеся!",
+	["Prevents you from getting damaged from electric puddles"] =   "Zapobigaye shkodi vid elektrychnykh kalpuz",
 }

@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Figuur verwijderen (FE)",
 	["Main"] =   "Hoofd",
+	["Removes figure for everyone, however this is inconsistent"] =   "Verwijdert de figuur voor iedereen, maar dit is inconsistent",
 	["Visuals"] =   "Beeld",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Overig",
@@ -266,7 +268,6 @@ return {
 	["Anti Alma"] =   "Anti Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Voorkomt dat Alma ooit met jou interageert, je kunt haar vrij bekijken",
 	["Anti Electric Puddle"] =   "Anti elektrische plas",
-	["Moves your character above to not step on electric puddles"] =   "Verplaatst je personaal omhoog zodat je niet op elektrische plassen stapt",
 	["Anti Ransom"] =   "Anti losgeld",
 	["Prevents ransom from attacking you even when moving"] =   "Voorkomt dat het losgeld je aanvalt, zelfs terwijl je beweegt",
 	["No Scribbles Damage"] =   "Geen Scribbles-schade",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak is verschenen, kijk naar hem en loop naar hem toe!",
 	["Scribbles is coming, hide!"] =   "Scribbles komt, verstop je!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles komt, maar je hebt de Scribbles-schade uitgeschakeld, maak je geen zorgen!",
+	["Prevents you from getting damaged from electric puddles"] =   "Voorkomt schade door elektrische plassen",
 }

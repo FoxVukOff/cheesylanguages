@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Șterge Figura (FE)",
 	["Main"] =   "Principală",
+	["Removes figure for everyone, however this is inconsistent"] =   "Elimină figura pentru toți, însă acest lucru este inconsistent",
 	["Visuals"] =   "Vizual",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Diverse",
@@ -256,7 +258,6 @@ return {
 	["Anti Alma"] =   "Anti-Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Împiedică Alma să interacționeze vreodată cu tine, așa că o poți privi liber",
 	["Anti Electric Puddle"] =   "Anti-bâltoaca electrică",
-	["Moves your character above to not step on electric puddles"] =   "Îți mută personajul mai sus ca să nu calci în băltoacele electrice",
 	["Anti Ransom"] =   "Anti-Ransom",
 	["Prevents ransom from attacking you even when moving"] =   "Împiedică Ransom să te atace chiar dacă te miști",
 	["No Scribbles Damage"] =   "Fără pagube de la Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak a aparut, priveste-l si mergi spre el!",
 	["Scribbles is coming, hide!"] =   "Scribbles vine, ascunde-te!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles vine, dar ai dezactivat damage-ul de Scribbles, nu iti fa griji!",
+	["Prevents you from getting damaged from electric puddles"] =   "Impedica daunele de la baltile electrice",
 }

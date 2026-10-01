@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Supprimer la Figure (FE)",
 	["Main"] =   "Principal",
+	["Removes figure for everyone, however this is inconsistent"] =   "Supprime la figure pour tout le monde, cependant c'est inconsistant",
 	["Visuals"] =   "Visuels",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Divers",
@@ -267,7 +269,6 @@ return {
 	["Makes your character fly forwards fast to trick the anticheat to send you through walls"] =   "Fait voler votre personnage vers l'avant rapidement pour tromper l'antitriche et vous faire passer les murs",
 	["Makes your game very bright, and removes shadows"] =   "Rend votre jeu tres lumineux et supprime les ombres",
 	["Minecart chase is not active yet."] =   "La course en chariot n'est pas encore active.",
-	["Moves your character above to not step on electric puddles"] =   "Deplace votre personnage au-dessus pour ne pas marcher dans les flaques electriques",
 	["Mutes the ambience sound when Haste is active"] =   "Coupe le son d'ambiance quand Haste est actif",
 	["No A-90 Damage"] =   "Pas de degats de A-90",
 	["No Halt Damage"] =   "Pas de degats de Halt",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak est apparu, regardez-le et avancez vers lui !",
 	["Scribbles is coming, hide!"] =   "Scribbles arrive, cachez-vous !",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles arrive, mais vous avez les dégâts de Scribbles désactivés, ne vous inquiétez pas !",
+	["Prevents you from getting damaged from electric puddles"] =   "Te previent des degats des flaques electriques",
 }

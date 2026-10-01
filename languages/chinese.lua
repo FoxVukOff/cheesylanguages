@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "删除雕像 (FE)",
 	["Main"] =   "主菜单",
+	["Removes figure for everyone, however this is inconsistent"] =   "为所有人移除雕像，但此功能不稳定",
 	["Visuals"] =   "视觉效果",
 	["Exploits"] =   "辅助功能",
 	["Miscellaneous"] =   "其他",
@@ -266,7 +268,6 @@ return {
 	["Anti Alma"] =   "反 Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "防止 Alma 与你交互／你可以随意看着她",
 	["Anti Electric Puddle"] =   "反电水坑",
-	["Moves your character above to not step on electric puddles"] =   "将你的角色上移，避免踩到电水坑",
 	["Anti Ransom"] =   "反勒索",
 	["Prevents ransom from attacking you even when moving"] =   "即使在移动中也防止勒索攻击你",
 	["No Scribbles Damage"] =   "免疫乱涂伤害",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak 出现了，看着他并朝他走过去！",
 	["Scribbles is coming, hide!"] =   "Scribbles 来了，快躲起来！",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles 来了，但你已关闭 Scribbles 伤害，别担心！",
+	["Prevents you from getting damaged from electric puddles"] =   "防止电水造成伤害",
 }

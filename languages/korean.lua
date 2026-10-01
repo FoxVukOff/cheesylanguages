@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "피규어 삭제 (FE)",
 	["Main"] =   "메인",
+	["Removes figure for everyone, however this is inconsistent"] =   "모두에게서 피규어를 제거하지만, 불안정합니다",
 	["Visuals"] =   "화면",
 	["Exploits"] =   "익스플로잇",
 	["Miscellaneous"] =   "기타",
@@ -266,7 +268,6 @@ return {
 	["Anti Alma"] =   "안티 Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Alma가 절대로 당신에게 말을 걸지 않게 합니다 (그녀를 자유롭게 볼 수 있습니다)",
 	["Anti Electric Puddle"] =   "안티 전기 웅덩이",
-	["Moves your character above to not step on electric puddles"] =   "전기 웅덩이를 밟지 않도록 캐릭터를 위로 올립니다",
 	["Anti Ransom"] =   "안티 Ransom",
 	["Prevents ransom from attacking you even when moving"] =   "이동 중에도 Ransom의 공격을 받지 않게 합니다",
 	["No Scribbles Damage"] =   "Scribbles 피해 없음",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak이(가) 나타났습니다, 그를 보고 그에게 다가가세요!",
 	["Scribbles is coming, hide!"] =   "Scribbles가 옵니다, 숨으세요!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles가 오지만 Scribbles 피해가 꺼져 있으니 걱정하지 마세요!",
+	["Prevents you from getting damaged from electric puddles"] =   "전기 물웅덩이로 인한 피해를 방지합니다",
 }

@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Elimina Figura (FE)",
 	["Main"] =   "Principale",
+	["Removes figure for everyone, however this is inconsistent"] =   "Rimuove la figura per tutti, ma è incoerente",
 	["Visuals"] =   "Visivi",
 	["Exploits"] =   "Exploit",
 	["Miscellaneous"] =   "Varie",
@@ -266,7 +268,6 @@ return {
 	["Anti Alma"] =   "Anti Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Impedisce ad Alma di interagire con te, puoi guardarla liberamente",
 	["Anti Electric Puddle"] =   "Anti pozza elettrica",
-	["Moves your character above to not step on electric puddles"] =   "Sposta il personaggio in alto per non calpestare le pozze elettriche",
 	["Anti Ransom"] =   "Anti riscatto",
 	["Prevents ransom from attacking you even when moving"] =   "Impedisce al riscatto di attaccarti anche mentre ti muovi",
 	["No Scribbles Damage"] =   "Niente danni da Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak e apparso, guardalo e cammina verso di lui!",
 	["Scribbles is coming, hide!"] =   "Scribbles sta arrivando, nasconditi!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles sta arrivando, ma hai i danni di Scribbles disattivati, non preoccuparti!",
+	["Prevents you from getting damaged from electric puddles"] =   "Previene i danni delle pozze elettriche",
 }

@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Hapus Figur (FE)",
 	["Main"] =   "Utama",
+	["Removes figure for everyone, however this is inconsistent"] =   "Menghapus figur untuk semua orang, namun ini tidak konsisten",
 	["Visuals"] =   "Visual",
 	["Exploits"] =   "Exploit",
 	["Miscellaneous"] =   "Lain-lain",
@@ -256,7 +258,6 @@ return {
 	["Anti Alma"] =   "Anti Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Mencegah Alma berinteraksi denganmu, kamu bebas memandangnya",
 	["Anti Electric Puddle"] =   "Anti genangan listrik",
-	["Moves your character above to not step on electric puddles"] =   "Memindahkan karaktermu ke atas agar tidak menginjak genangan listrik",
 	["Anti Ransom"] =   "Anti tebusteran",
 	["Prevents ransom from attacking you even when moving"] =   "Mencegah tebusteran menyerangmu bahkan saat bergerak",
 	["No Scribbles Damage"] =   "Tanpa kerusakan Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak telah muncul, lihat dia dan berjalan mendekatinya!",
 	["Scribbles is coming, hide!"] =   "Scribbles datang, bersembunyi!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles datang, tapi kamu mengaktifkan melukai Scribbles, jangan khawatir!",
+	["Prevents you from getting damaged from electric puddles"] =   "Mencegah kerusakan dari genangan listrik",
 }

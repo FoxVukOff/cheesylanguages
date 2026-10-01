@@ -1,6 +1,8 @@
 
 return {
+	["Delete Figure (FE)"] =   "Ta bort Figuren (FE)",
 	["Main"] =   "Huvudsida",
+	["Removes figure for everyone, however this is inconsistent"] =   "Tar bort figuren för alla, men detta är inkonsekvent",
 	["Visuals"] =   "Grafik",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Övrigt",
@@ -260,7 +262,6 @@ return {
 	["Anti Alma"] =   "Anti-Alma",
 	["Prevents alma from ever interacting with you/you can look at her freely"] =   "Förhindrar Alma från att någonsin interagera med dig, så att du kan titta på henne fritt",
 	["Anti Electric Puddle"] =   "Anti-elektrisk pöl",
-	["Moves your character above to not step on electric puddles"] =   "Flyttar din karaktär uppåt så att du inte trampar i elektriska pölar",
 	["Anti Ransom"] =   "Anti-Ransom",
 	["Prevents ransom from attacking you even when moving"] =   "Förhindrar Ransom från att attackera dig även när du rör dig",
 	["No Scribbles Damage"] =   "Ingen skada från Scribbles",
@@ -463,4 +464,5 @@ return {
 	["Creak has spawned, look at him and walk at him!"] =   "Creak har dykt upp, titta pa honom och ga mot honom!",
 	["Scribbles is coming, hide!"] =   "Scribbles kommer, gom dig!",
 	["Scribbles is coming, but you have no scribbles damage on so don\'t worry!"] =   "Scribbles kommer, men du har avstangt Scribbles-skadan, oroa dig inte!",
+	["Prevents you from getting damaged from electric puddles"] =   "Forshindar skada fra elektriska pussar",
 }
