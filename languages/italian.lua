@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Frantoio",
 	["Delete Figure (FE)"] =   "Elimina Figura (FE)",
 	["Main"] =   "Principale",
+	["Prevents you from getting hurt from crushers"] =   "Ti impedisce di subire danni dai frantoi",
 	["Removes figure for everyone, however this is inconsistent"] =   "Rimuove la figura per tutti, ma è incoerente",
+	["Snare"] =   "Trappola",
 	["Visuals"] =   "Visivi",
 	["Exploits"] =   "Exploit",
 	["Miscellaneous"] =   "Varie",

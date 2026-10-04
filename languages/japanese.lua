@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "anti粉砕機",
 	["Delete Figure (FE)"] =   "フィギュアを削除 (FE)",
 	["Main"] =   "メイン",
+	["Prevents you from getting hurt from crushers"] =   "粉砕機からのダメージを受けないようにします",
 	["Removes figure for everyone, however this is inconsistent"] =   "全員から雕像を削除しますが、動作は不安定です",
+	["Snare"] =   "罠",
 	["Visuals"] =   "表示",
 	["Exploits"] =   "エクスプロイト",
 	["Miscellaneous"] =   "その他",

@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Kırıcı",
 	["Delete Figure (FE)"] =   "Figürü Sil (FE)",
 	["Main"] =   "Ana Sayfa",
+	["Prevents you from getting hurt from crushers"] =   "Kırıcılardan aldığın hasarı önler",
 	["Removes figure for everyone, however this is inconsistent"] =   "Figürü herkes için kaldırır, ancak bu tutarsızdır",
+	["Snare"] =   "Tuzak",
 	["Visuals"] =   "Gorseller",
 	["Exploits"] =   "Exploitler",
 	["Miscellaneous"] =   "Cesitli",

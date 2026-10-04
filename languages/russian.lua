@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Против дробилки",
 	["Delete Figure (FE)"] =   "Удалить фигуру (FE)",
 	["Main"] =   "Главная",
+	["Prevents you from getting hurt from crushers"] =   "Не дает получить урон от дробилок",
 	["Removes figure for everyone, however this is inconsistent"] =   "Удаляет фигуру для всех, но это нестабильно",
+	["Snare"] =   "Капкан",
 	["Visuals"] =   "Визуальные",
 	["Exploits"] =   "Эксплойты",
 	["Miscellaneous"] =   "Разное",

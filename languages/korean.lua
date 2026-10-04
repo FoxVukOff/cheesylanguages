@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "안티 분쇄기",
 	["Delete Figure (FE)"] =   "피규어 삭제 (FE)",
 	["Main"] =   "메인",
+	["Prevents you from getting hurt from crushers"] =   "분쇄기로부터 받는 피해를 방지합니다",
 	["Removes figure for everyone, however this is inconsistent"] =   "모두에게서 피규어를 제거하지만, 불안정합니다",
+	["Snare"] =   "덫",
 	["Visuals"] =   "화면",
 	["Exploits"] =   "익스플로잇",
 	["Miscellaneous"] =   "기타",

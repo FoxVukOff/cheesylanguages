@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "AntiZdrobitor",
 	["Delete Figure (FE)"] =   "Șterge Figura (FE)",
 	["Main"] =   "Principală",
+	["Prevents you from getting hurt from crushers"] =   "Te impiedica sa fii ranit de concasori",
 	["Removes figure for everyone, however this is inconsistent"] =   "Elimină figura pentru toți, însă acest lucru este inconsistent",
+	["Snare"] =   "Capcană",
 	["Visuals"] =   "Vizual",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Diverse",

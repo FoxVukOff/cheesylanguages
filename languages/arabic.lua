@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "مضاد للمدشنة",
 	["Delete Figure (FE)"] =   "حذف التمثال (FE)",
 	["Main"] =   "الرئيسية",
+	["Prevents you from getting hurt from crushers"] =   "يمنعلك من التضرر من المدشنات",
 	["Removes figure for everyone, however this is inconsistent"] =   "يزيل التمثال للجميع، لكن هذا غير متسق",
+	["Snare"] =   "فخ",
 	["Visuals"] =   "المؤثرات",
 	["Exploits"] =   "الاختراقات",
 	["Miscellaneous"] =   "متفرق",

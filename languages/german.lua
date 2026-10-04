@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Presse",
 	["Delete Figure (FE)"] =   "Figur löschen (FE)",
 	["Main"] =   "Haupt",
+	["Prevents you from getting hurt from crushers"] =   "Verhindert Schaden durch Pressen",
 	["Removes figure for everyone, however this is inconsistent"] =   "Entfernt die Figur für alle, ist jedoch inkonsistent",
+	["Snare"] =   "Falle",
 	["Visuals"] =   "Optik",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Verschiedenes",

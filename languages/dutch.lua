@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Breker",
 	["Delete Figure (FE)"] =   "Figuur verwijderen (FE)",
 	["Main"] =   "Hoofd",
+	["Prevents you from getting hurt from crushers"] =   "Voorkomt schade door brekers",
 	["Removes figure for everyone, however this is inconsistent"] =   "Verwijdert de figuur voor iedereen, maar dit is inconsistent",
+	["Snare"] =   "Valk",
 	["Visuals"] =   "Beeld",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Overig",

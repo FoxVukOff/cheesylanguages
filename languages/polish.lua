@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anty Młyn",
 	["Delete Figure (FE)"] =   "Usuń Figurę (FE)",
 	["Main"] =   "Glowna",
+	["Prevents you from getting hurt from crushers"] =   "Zapobiega obrażeniom od młynów",
 	["Removes figure for everyone, however this is inconsistent"] =   "Usuwa figurę dla wszystkich, jednak jest to niespójne",
+	["Snare"] =   "Pułapka",
 	["Visuals"] =   "Wizualne",
 	["Exploits"] =   "Exploity",
 	["Miscellaneous"] =   "Rozne",

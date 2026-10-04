@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "反压碎机",
 	["Delete Figure (FE)"] =   "删除雕像 (FE)",
 	["Main"] =   "主菜单",
+	["Prevents you from getting hurt from crushers"] =   "防止你受到压碎机的伤害",
 	["Removes figure for everyone, however this is inconsistent"] =   "为所有人移除雕像，但此功能不稳定",
+	["Snare"] =   "陷阱",
 	["Visuals"] =   "视觉效果",
 	["Exploits"] =   "辅助功能",
 	["Miscellaneous"] =   "其他",

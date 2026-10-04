@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Chống Nghiền",
 	["Delete Figure (FE)"] =   "Xoá Hình Nộm (FE)",
 	["Main"] =   "Chinh",
+	["Prevents you from getting hurt from crushers"] =   "Ngăn bạn bị thương từ các máy nghiền",
 	["Removes figure for everyone, however this is inconsistent"] =   "Xoá tượng cho mọi người, nhưng điều này không ổn định",
+	["Snare"] =   "Bẫy",
 	["Visuals"] =   "Hinh anh",
 	["Exploits"] =   "Exploit",
 	["Miscellaneous"] =   "Khac",

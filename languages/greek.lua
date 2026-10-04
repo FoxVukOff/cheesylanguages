@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Αντισυγκράστηρας",
 	["Delete Figure (FE)"] =   "Διαγραφή Μορφής (FE)",
 	["Main"] =   "Κύριο",
+	["Prevents you from getting hurt from crushers"] =   "Σε αποτρέπει τον τραυματισμό από συγκράστηρες",
 	["Removes figure for everyone, however this is inconsistent"] =   "Αφαιρεί τη φιγούρα για όλους, ωστόσο αυτό είναι ασυνεπές",
+	["Snare"] =   "Παγίδα",
 	["Visuals"] =   "Οπτικά",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Διαφορά",

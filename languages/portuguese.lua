@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Britador",
 	["Delete Figure (FE)"] =   "Eliminar Figura (FE)",
 	["Main"] =   "Principal",
+	["Prevents you from getting hurt from crushers"] =   "Impede que sofra danos dos britadores",
 	["Removes figure for everyone, however this is inconsistent"] =   "Remove a figura para todos, no entanto, isto é inconsistente",
+	["Snare"] =   "Armadilha",
 	["Visuals"] =   "Visuais",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Diversos",

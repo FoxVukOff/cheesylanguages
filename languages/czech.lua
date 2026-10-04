@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Protidrtič",
 	["Delete Figure (FE)"] =   "Odstranit Figuru (FE)",
 	["Main"] =   "Hlavní",
+	["Prevents you from getting hurt from crushers"] =   "Zabranuje ti ublizeni od drtic",
 	["Removes figure for everyone, however this is inconsistent"] =   "Odebere figuru všem, ale toto je nekonzistentní",
+	["Snare"] =   "Past",
 	["Visuals"] =   "Vizuální",
 	["Exploits"] =   "Exploity",
 	["Miscellaneous"] =   "Ostatní",

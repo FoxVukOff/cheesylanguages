@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Broyeur",
 	["Delete Figure (FE)"] =   "Supprimer la Figure (FE)",
 	["Main"] =   "Principal",
+	["Prevents you from getting hurt from crushers"] =   "Vous empêche de subir des dégâts des broyeurs",
 	["Removes figure for everyone, however this is inconsistent"] =   "Supprime la figure pour tout le monde, cependant c'est inconsistant",
+	["Snare"] =   "Piège",
 	["Visuals"] =   "Visuels",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Divers",

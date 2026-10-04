@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Antikrossare",
 	["Delete Figure (FE)"] =   "Ta bort Figuren (FE)",
 	["Main"] =   "Huvudsida",
+	["Prevents you from getting hurt from crushers"] =   "Forshindar dig från att skadas av krossare",
 	["Removes figure for everyone, however this is inconsistent"] =   "Tar bort figuren för alla, men detta är inkonsekvent",
+	["Snare"] =   "Fälla",
 	["Visuals"] =   "Grafik",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Övrigt",

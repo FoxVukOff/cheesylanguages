@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Penghancur",
 	["Delete Figure (FE)"] =   "Hapus Figur (FE)",
 	["Main"] =   "Utama",
+	["Prevents you from getting hurt from crushers"] =   "Mencegah kamu terluka oleh penghancur",
 	["Removes figure for everyone, however this is inconsistent"] =   "Menghapus figur untuk semua orang, namun ini tidak konsisten",
+	["Snare"] =   "Perangkap",
 	["Visuals"] =   "Visual",
 	["Exploits"] =   "Exploit",
 	["Miscellaneous"] =   "Lain-lain",

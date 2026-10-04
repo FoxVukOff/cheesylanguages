@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Aplastador",
 	["Delete Figure (FE)"] =   "Eliminar Figura (FE)",
 	["Main"] =   "Principal",
+	["Prevents you from getting hurt from crushers"] =   "Te evita sufrir daños de los aplastadores",
 	["Removes figure for everyone, however this is inconsistent"] =   "Elimina la figura para todos, sin embargo, esto es inconsistente",
+	["Snare"] =   "Trampa",
 	["Visuals"] =   "Visuales",
 	["Exploits"] =   "Exploits",
 	["Miscellaneous"] =   "Varios",

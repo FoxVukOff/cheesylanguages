@@ -1,8 +1,11 @@
 
 return {
+	["Anti Crusher"] =   "Anti Daráló",
 	["Delete Figure (FE)"] =   "Figura törlése (FE)",
 	["Main"] =   "Fooldal",
+	["Prevents you from getting hurt from crushers"] =   "Megvéd az összez crusherek okozta sérüléstől",
 	["Removes figure for everyone, however this is inconsistent"] =   "Eltávolítja a figurát mindenkinek, de ez nem konzisztens",
+	["Snare"] =   "Csapda",
 	["Visuals"] =   "Vizuális",
 	["Exploits"] =   "Exploitok",
 	["Miscellaneous"] =   "Egyéb",
