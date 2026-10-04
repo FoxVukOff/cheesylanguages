@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Chống Nghiền",
+	["Auto Scrap"] =   "Tự Động Cắt Nát",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Tự động dịch chuyển đến từng vật phẩm rồi nghiền nát, nhưng điều này không ổn định",
+	["Creak Aggression Meter"] =   "Dong ho hung hang cua Creak",
 	["Delete Figure (FE)"] =   "Xoá Hình Nộm (FE)",
 	["Main"] =   "Chinh",
 	["Prevents you from getting hurt from crushers"] =   "Ngăn bạn bị thương từ các máy nghiền",
 	["Removes figure for everyone, however this is inconsistent"] =   "Xoá tượng cho mọi người, nhưng điều này không ổn định",
+	["Scrapper is missing"] =   "Không tìm thấy máy nghiền",
+	["Shows Creak's aggression above its head."] =   "Hien thi su hung hang cua Creak tren dau no.",
 	["Snare"] =   "Bẫy",
 	["Visuals"] =   "Hinh anh",
 	["Exploits"] =   "Exploit",

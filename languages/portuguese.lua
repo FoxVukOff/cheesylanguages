@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Britador",
+	["Auto Scrap"] =   "Auto Sucata",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Teleporta-se automaticamente para cada item e depois os tritura, isto é inconsistente",
+	["Creak Aggression Meter"] =   "Medidor de agressividade do Creak",
 	["Delete Figure (FE)"] =   "Eliminar Figura (FE)",
 	["Main"] =   "Principal",
 	["Prevents you from getting hurt from crushers"] =   "Impede que sofra danos dos britadores",
 	["Removes figure for everyone, however this is inconsistent"] =   "Remove a figura para todos, no entanto, isto é inconsistente",
+	["Scrapper is missing"] =   "O britador está em falta",
+	["Shows Creak's aggression above its head."] =   "Mostra a agressividade do Creak acima da sua cabeca.",
 	["Snare"] =   "Armadilha",
 	["Visuals"] =   "Visuais",
 	["Exploits"] =   "Exploits",

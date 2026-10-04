@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "AntiZdrobitor",
+	["Auto Scrap"] =   "Auto Fier",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Se teleportă automat la fiecare obiect apoi îl sfâșie, însă acest lucru este inconsistent",
+	["Creak Aggression Meter"] =   "Contor de agresivitate Creak",
 	["Delete Figure (FE)"] =   "Șterge Figura (FE)",
 	["Main"] =   "Principală",
 	["Prevents you from getting hurt from crushers"] =   "Te impiedica sa fii ranit de concasori",
 	["Removes figure for everyone, however this is inconsistent"] =   "Elimină figura pentru toți, însă acest lucru este inconsistent",
+	["Scrapper is missing"] =   "Lipsește concasorul",
+	["Shows Creak's aggression above its head."] =   "Afiseaza agresivitatea lui Creak deasupra capului sau.",
 	["Snare"] =   "Capcană",
 	["Visuals"] =   "Vizual",
 	["Exploits"] =   "Exploits",

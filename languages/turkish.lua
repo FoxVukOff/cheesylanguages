@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Kırıcı",
+	["Auto Scrap"] =   "Otomatik Hurda",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Her eşyaya otomatik olarak ışınlanır ve sonra parçalar, bu tutarsızdır",
+	["Creak Aggression Meter"] =   "Creak Saldirganlik Olceri",
 	["Delete Figure (FE)"] =   "Figürü Sil (FE)",
 	["Main"] =   "Ana Sayfa",
 	["Prevents you from getting hurt from crushers"] =   "Kırıcılardan aldığın hasarı önler",
 	["Removes figure for everyone, however this is inconsistent"] =   "Figürü herkes için kaldırır, ancak bu tutarsızdır",
+	["Scrapper is missing"] =   "Kırıcı eksik",
+	["Shows Creak's aggression above its head."] =   "Creak'in saldirganligini basinin uzerinde gosterir.",
 	["Snare"] =   "Tuzak",
 	["Visuals"] =   "Gorseller",
 	["Exploits"] =   "Exploitler",

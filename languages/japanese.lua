@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "anti粉砕機",
+	["Auto Scrap"] =   "自動スクラップ",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "各アイテムに自動テレポートしてから粉砕します。ただし動作は不安定です",
+	["Creak Aggression Meter"] =   "Creak no kougeki-sei metaa",
 	["Delete Figure (FE)"] =   "フィギュアを削除 (FE)",
 	["Main"] =   "メイン",
 	["Prevents you from getting hurt from crushers"] =   "粉砕機からのダメージを受けないようにします",
 	["Removes figure for everyone, however this is inconsistent"] =   "全員から雕像を削除しますが、動作は不安定です",
+	["Scrapper is missing"] =   "粉砕機が見つかりません",
+	["Shows Creak's aggression above its head."] =   "Creak no atama no ue ni kougeki-sei o hyoji shimasu",
 	["Snare"] =   "罠",
 	["Visuals"] =   "表示",
 	["Exploits"] =   "エクスプロイト",

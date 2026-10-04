@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Antikrossare",
+	["Auto Scrap"] =   "Auto Skrot",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Teleporterar automatiskt till varje föremål och krossar sedan, men detta är inkonsekvent",
+	["Creak Aggression Meter"] =   "Creak-aggressionsmatare",
 	["Delete Figure (FE)"] =   "Ta bort Figuren (FE)",
 	["Main"] =   "Huvudsida",
 	["Prevents you from getting hurt from crushers"] =   "Forshindar dig från att skadas av krossare",
 	["Removes figure for everyone, however this is inconsistent"] =   "Tar bort figuren för alla, men detta är inkonsekvent",
+	["Scrapper is missing"] =   "Krossare saknas",
+	["Shows Creak's aggression above its head."] =   "Visar Creaks aggression ovanfor hans huvud.",
 	["Snare"] =   "Fälla",
 	["Visuals"] =   "Grafik",
 	["Exploits"] =   "Exploits",

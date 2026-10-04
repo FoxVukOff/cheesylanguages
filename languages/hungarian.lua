@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Daráló",
+	["Auto Scrap"] =   "Auto Óc",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Automatikusan teleportál minden tárgyhoz, majd összemorogja, de ez nem konzisztens",
+	["Creak Aggression Meter"] =   "Creak agressziomerő",
 	["Delete Figure (FE)"] =   "Figura törlése (FE)",
 	["Main"] =   "Fooldal",
 	["Prevents you from getting hurt from crushers"] =   "Megvéd az összez crusherek okozta sérüléstől",
 	["Removes figure for everyone, however this is inconsistent"] =   "Eltávolítja a figurát mindenkinek, de ez nem konzisztens",
+	["Scrapper is missing"] =   "A daráló hiányzik",
+	["Shows Creak's aggression above its head."] =   "Megjeleniti a Creak agressziojat a feje folott.",
 	["Snare"] =   "Csapda",
 	["Visuals"] =   "Vizuális",
 	["Exploits"] =   "Exploitok",

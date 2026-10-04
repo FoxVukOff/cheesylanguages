@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "مضاد للمدشنة",
+	["Auto Scrap"] =   "تمزيق تلقائي",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "ينتقل تلقائيًا إلى كل عنصر ثم يسحقه، لكن هذا غير متسق",
+	["Creak Aggression Meter"] =   "Miqyas ʿadwawaniyyat Creak",
 	["Delete Figure (FE)"] =   "حذف التمثال (FE)",
 	["Main"] =   "الرئيسية",
 	["Prevents you from getting hurt from crushers"] =   "يمنعلك من التضرر من المدشنات",
 	["Removes figure for everyone, however this is inconsistent"] =   "يزيل التمثال للجميع، لكن هذا غير متسق",
+	["Scrapper is missing"] =   "المدشنة مفقودة",
+	["Shows Creak's aggression above its head."] =   "Yurid ʿadwawaniyyat Creak fawq rasihi.",
 	["Snare"] =   "فخ",
 	["Visuals"] =   "المؤثرات",
 	["Exploits"] =   "الاختراقات",

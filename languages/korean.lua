@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "안티 분쇄기",
+	["Auto Scrap"] =   "자동 분쇄",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "각 아이템으로 자동 텔레포트한 뒤 분쇄합니다. 다만 불안정합니다",
+	["Creak Aggression Meter"] =   "Creak gonggeokseong miteo",
 	["Delete Figure (FE)"] =   "피규어 삭제 (FE)",
 	["Main"] =   "메인",
 	["Prevents you from getting hurt from crushers"] =   "분쇄기로부터 받는 피해를 방지합니다",
 	["Removes figure for everyone, however this is inconsistent"] =   "모두에게서 피규어를 제거하지만, 불안정합니다",
+	["Scrapper is missing"] =   "분쇄기를 찾을 수 없습니다",
+	["Shows Creak's aggression above its head."] =   "Creak meori wi gonggeokseongui hyeongsi hamnida",
 	["Snare"] =   "덫",
 	["Visuals"] =   "화면",
 	["Exploits"] =   "익스플로잇",

@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Protidrtič",
+	["Auto Scrap"] =   "Auto Šrot",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Automaticky se teleportuje ke každému předmětu a rozdrtí ho, ale toto je nekonzistentní",
+	["Creak Aggression Meter"] =   "Metric agresivity Creaka",
 	["Delete Figure (FE)"] =   "Odstranit Figuru (FE)",
 	["Main"] =   "Hlavní",
 	["Prevents you from getting hurt from crushers"] =   "Zabranuje ti ublizeni od drtic",
 	["Removes figure for everyone, however this is inconsistent"] =   "Odebere figuru všem, ale toto je nekonzistentní",
+	["Scrapper is missing"] =   "Chybí drtič",
+	["Shows Creak's aggression above its head."] =   "Zobrazuje agresivitu Creaka nad jeho hlavou.",
 	["Snare"] =   "Past",
 	["Visuals"] =   "Vizuální",
 	["Exploits"] =   "Exploity",

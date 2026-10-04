@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Presse",
+	["Auto Scrap"] =   "Auto Schrott",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Teleportiert automatisch zu jedem Gegenstand und schreddert ihn, das ist inkonsistent",
+	["Creak Aggression Meter"] =   "Creak-Aggressionsanzeige",
 	["Delete Figure (FE)"] =   "Figur löschen (FE)",
 	["Main"] =   "Haupt",
 	["Prevents you from getting hurt from crushers"] =   "Verhindert Schaden durch Pressen",
 	["Removes figure for everyone, however this is inconsistent"] =   "Entfernt die Figur für alle, ist jedoch inkonsistent",
+	["Scrapper is missing"] =   "Presse fehlt",
+	["Shows Creak's aggression above its head."] =   "Zeigt Creaks Aggression ueber seinem Kopf an.",
 	["Snare"] =   "Falle",
 	["Visuals"] =   "Optik",
 	["Exploits"] =   "Exploits",

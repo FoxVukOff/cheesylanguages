@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Против дробилки",
+	["Auto Scrap"] =   "Авто-лом",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Автоматически телепортируется к каждому предмету и дробит его, это нестабильно",
+	["Creak Aggression Meter"] =   "Schyotchik agressii Kreaka",
 	["Delete Figure (FE)"] =   "Удалить фигуру (FE)",
 	["Main"] =   "Главная",
 	["Prevents you from getting hurt from crushers"] =   "Не дает получить урон от дробилок",
 	["Removes figure for everyone, however this is inconsistent"] =   "Удаляет фигуру для всех, но это нестабильно",
+	["Scrapper is missing"] =   "Дробилка отсутствует",
+	["Shows Creak's aggression above its head."] =   "Pokazyvaet agressii Kreaka nad ego golovoi.",
 	["Snare"] =   "Капкан",
 	["Visuals"] =   "Визуальные",
 	["Exploits"] =   "Эксплойты",

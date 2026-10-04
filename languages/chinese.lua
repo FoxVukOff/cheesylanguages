@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "反压碎机",
+	["Auto Scrap"] =   "自动拆解",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "自动传送到每个物品然后将其粉碎，但此功能不稳定",
+	["Creak Aggression Meter"] =   "Creak qinggouxing jiliang",
 	["Delete Figure (FE)"] =   "删除雕像 (FE)",
 	["Main"] =   "主菜单",
 	["Prevents you from getting hurt from crushers"] =   "防止你受到压碎机的伤害",
 	["Removes figure for everyone, however this is inconsistent"] =   "为所有人移除雕像，但此功能不稳定",
+	["Scrapper is missing"] =   "找不到压碎机",
+	["Shows Creak's aggression above its head."] =   "Zai Creak tou ding xianshi ta de qinggouxing",
 	["Snare"] =   "陷阱",
 	["Visuals"] =   "视觉效果",
 	["Exploits"] =   "辅助功能",

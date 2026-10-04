@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Broyeur",
+	["Auto Scrap"] =   "Auto Frot",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Téléporte automatiquement à chaque objet puis les broie, c'est incohérent",
+	["Creak Aggression Meter"] =   "Compteur d'agressivite de Creak",
 	["Delete Figure (FE)"] =   "Supprimer la Figure (FE)",
 	["Main"] =   "Principal",
 	["Prevents you from getting hurt from crushers"] =   "Vous empêche de subir des dégâts des broyeurs",
 	["Removes figure for everyone, however this is inconsistent"] =   "Supprime la figure pour tout le monde, cependant c'est inconsistant",
+	["Scrapper is missing"] =   "Le broyeur est introuvable",
+	["Shows Creak's aggression above its head."] =   "Affiche l'agressivite de Creak au-dessus de sa tete.",
 	["Snare"] =   "Piège",
 	["Visuals"] =   "Visuels",
 	["Exploits"] =   "Exploits",

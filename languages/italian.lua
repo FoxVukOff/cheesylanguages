@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Frantoio",
+	["Auto Scrap"] =   "Auto Smantellamento",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Si teletrasporta automaticamente a ogni oggetto e poi lo frantuma, è incoerente",
+	["Creak Aggression Meter"] =   "Misuratore di aggressivita di Creak",
 	["Delete Figure (FE)"] =   "Elimina Figura (FE)",
 	["Main"] =   "Principale",
 	["Prevents you from getting hurt from crushers"] =   "Ti impedisce di subire danni dai frantoi",
 	["Removes figure for everyone, however this is inconsistent"] =   "Rimuove la figura per tutti, ma è incoerente",
+	["Scrapper is missing"] =   "Frantoio mancante",
+	["Shows Creak's aggression above its head."] =   "Mostra l'aggressivita di Creak sopra la sua testa.",
 	["Snare"] =   "Trappola",
 	["Visuals"] =   "Visivi",
 	["Exploits"] =   "Exploit",

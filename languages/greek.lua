@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Αντισυγκράστηρας",
+	["Auto Scrap"] =   "Αυτόματο Σκραπαλομέτα",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Τηλεμεταφέρεται αυτόματα σε κάθε αντικείμενο και έπειτα το σπάει, ωστόσο αυτό είναι ασυνεπές",
+	["Creak Aggression Meter"] =   "Metritis epithetikotitas tou Creak",
 	["Delete Figure (FE)"] =   "Διαγραφή Μορφής (FE)",
 	["Main"] =   "Κύριο",
 	["Prevents you from getting hurt from crushers"] =   "Σε αποτρέπει τον τραυματισμό από συγκράστηρες",
 	["Removes figure for everyone, however this is inconsistent"] =   "Αφαιρεί τη φιγούρα για όλους, ωστόσο αυτό είναι ασυνεπές",
+	["Scrapper is missing"] =   "Ο συγκράστηρας λείπει",
+	["Shows Creak's aggression above its head."] =   "Deixnei tin epithetikotita tou Creak pano apo to kefali tou.",
 	["Snare"] =   "Παγίδα",
 	["Visuals"] =   "Οπτικά",
 	["Exploits"] =   "Exploits",

@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Penghancur",
+	["Auto Scrap"] =   "Auto Cacah",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Teleport otomatis ke setiap item lalu menghancurkannya, namun ini tidak konsisten",
+	["Creak Aggression Meter"] =   "Meter Agresi Creak",
 	["Delete Figure (FE)"] =   "Hapus Figur (FE)",
 	["Main"] =   "Utama",
 	["Prevents you from getting hurt from crushers"] =   "Mencegah kamu terluka oleh penghancur",
 	["Removes figure for everyone, however this is inconsistent"] =   "Menghapus figur untuk semua orang, namun ini tidak konsisten",
+	["Scrapper is missing"] =   "Penghancur tidak ditemukan",
+	["Shows Creak's aggression above its head."] =   "Menampilkan agresi Creak di atas kepalanya.",
 	["Snare"] =   "Perangkap",
 	["Visuals"] =   "Visual",
 	["Exploits"] =   "Exploit",

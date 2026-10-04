@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anty Młyn",
+	["Auto Scrap"] =   "Auto Złomowanie",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Automatycznie teleportuje się do każdego przedmiotu, a następnie go mieli, ale jest to niespójne",
+	["Creak Aggression Meter"] =   "Miernik agresji Creaka",
 	["Delete Figure (FE)"] =   "Usuń Figurę (FE)",
 	["Main"] =   "Glowna",
 	["Prevents you from getting hurt from crushers"] =   "Zapobiega obrażeniom od młynów",
 	["Removes figure for everyone, however this is inconsistent"] =   "Usuwa figurę dla wszystkich, jednak jest to niespójne",
+	["Scrapper is missing"] =   "Brakuje młyna",
+	["Shows Creak's aggression above its head."] =   "Pokazuje agresje Creaka nad jego glowa.",
 	["Snare"] =   "Pułapka",
 	["Visuals"] =   "Wizualne",
 	["Exploits"] =   "Exploity",

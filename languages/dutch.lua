@@ -1,10 +1,15 @@
 
 return {
 	["Anti Crusher"] =   "Anti Breker",
+	["Auto Scrap"] =   "Auto Schroot",
+	["Automatically teleports to each item and then scraps them, this is inconsistent"] =   "Teleporteert automatisch naar elk voorwerp en verscheurt het, dit is inconsistent",
+	["Creak Aggression Meter"] =   "Creak-aggressiemeter",
 	["Delete Figure (FE)"] =   "Figuur verwijderen (FE)",
 	["Main"] =   "Hoofd",
 	["Prevents you from getting hurt from crushers"] =   "Voorkomt schade door brekers",
 	["Removes figure for everyone, however this is inconsistent"] =   "Verwijdert de figuur voor iedereen, maar dit is inconsistent",
+	["Scrapper is missing"] =   "Breker ontbreekt",
+	["Shows Creak's aggression above its head."] =   "Toont de agressie van Creak boven zijn hoofd.",
 	["Snare"] =   "Valk",
 	["Visuals"] =   "Beeld",
 	["Exploits"] =   "Exploits",
